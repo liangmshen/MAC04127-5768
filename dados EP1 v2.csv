@@ -1,0 +1,802 @@
+classe,objeto,arquivo,data,hora,casa,fundo,dia,FileName,FileSize,Model,DateTimeOriginal,ImageSize,FocalLength,ShutterSpeed,Aperture,ISO
+banana,bananaA,bananaA1.jpg,19/04/2021,23:00,1,azul,0,bananaA1.jpg,1739 kB,iPhone 8,2021:04:19 23:00:19,4032x3024,4.0 mm,1/15,1.8,40
+banana,bananaA,bananaA10.jpg,19/04/2021,23:18,0,azul,0,bananaA10.jpg,1189 kB,iPhone 8,2021:04:19 23:18:56,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaA,bananaA11.jpg,19/04/2021,23:18,0,azul,0,bananaA11.jpg,1513 kB,iPhone 8,2021:04:19 23:18:58,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaA,bananaA12.jpg,19/04/2021,23:19,0,azul,0,bananaA12.jpg,1711 kB,iPhone 8,2021:04:19 23:19:01,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaA,bananaA13.jpg,19/04/2021,23:24,0,branco,0,bananaA13.jpg,1180 kB,iPhone 8,2021:04:19 23:24:42,3024x4032,4.0 mm,1/16,1.8,100
+banana,bananaA,bananaA14.jpg,19/04/2021,23:24,0,branco,0,bananaA14.jpg,1306 kB,iPhone 8,2021:04:19 23:24:43,3024x4032,4.0 mm,1/16,1.8,100
+banana,bananaA,bananaA15.jpg,19/04/2021,23:24,0,branco,0,bananaA15.jpg,1045 kB,iPhone 8,2021:04:19 23:24:48,3024x4032,4.0 mm,1/16,1.8,100
+banana,bananaA,bananaA16.jpg,19/04/2021,23:30,0,preto,0,bananaA16.jpg,1095 kB,iPhone 8,2021:04:19 23:30:21,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaA,bananaA17.jpg,19/04/2021,23:30,0,preto,0,bananaA17.jpg,1184 kB,iPhone 8,2021:04:19 23:30:25,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaA,bananaA18.jpg,19/04/2021,23:30,0,preto,0,bananaA18.jpg,1596 kB,iPhone 8,2021:04:19 23:30:28,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaA,bananaA19.jpg,20/04/2021,09:53,1,azul,1,bananaA19.jpg,3.4 MB,iPhone 8,2021:04:20 09:53:20,4032x3024,4.0 mm,1/120,1.8,64
+banana,bananaA,bananaA2.jpg,19/04/2021,23:00,1,azul,0,bananaA2.jpg,2.1 MB,iPhone 8,2021:04:19 23:00:55,4032x3024,4.0 mm,1/15,1.8,40
+banana,bananaA,bananaA20.jpg,20/04/2021,09:53,1,azul,1,bananaA20.jpg,2.4 MB,iPhone 8,2021:04:20 09:53:27,4032x3024,4.0 mm,1/120,1.8,64
+banana,bananaA,bananaA21.jpg,20/04/2021,09:53,1,azul,1,bananaA21.jpg,2.9 MB,iPhone 8,2021:04:20 09:53:38,4032x3024,4.0 mm,1/40,1.8,25
+banana,bananaA,bananaA22.jpg,20/04/2021,09:58,1,branco,1,bananaA22.jpg,1741 kB,iPhone 8,2021:04:20 09:58:11,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaA,bananaA23.jpg,20/04/2021,09:58,1,branco,1,bananaA23.jpg,1710 kB,iPhone 8,2021:04:20 09:58:15,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaA,bananaA24.jpg,20/04/2021,09:58,1,branco,1,bananaA24.jpg,1925 kB,iPhone 8,2021:04:20 09:58:25,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaA,bananaA25.jpg,20/04/2021,10:02,1,preto,1,bananaA25.jpg,2.4 MB,iPhone 8,2021:04:20 10:02:15,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaA,bananaA26.jpg,20/04/2021,10:02,1,preto,1,bananaA26.jpg,2.2 MB,iPhone 8,2021:04:20 10:02:19,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaA,bananaA27.jpg,20/04/2021,10:02,1,preto,1,bananaA27.jpg,2.7 MB,iPhone 8,2021:04:20 10:02:25,4032x3024,4.0 mm,1/30,1.8,40
+banana,bananaA,bananaA28.jpg,20/04/2021,10:10,0,azul,1,bananaA28.jpg,2.7 MB,iPhone 8,2021:04:20 10:10:47,4032x3024,4.0 mm,1/120,1.8,20
+banana,bananaA,bananaA29.jpg,20/04/2021,10:11,0,azul,1,bananaA29.jpg,3.3 MB,iPhone 8,2021:04:20 10:10:53,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaA,bananaA3.jpg,19/04/2021,23:01,1,azul,0,bananaA3.jpg,1707 kB,iPhone 8,2021:04:19 23:01:02,4032x3024,4.0 mm,1/17,1.8,40
+banana,bananaA,bananaA30.jpg,20/04/2021,10:11,0,azul,1,bananaA30.jpg,2.3 MB,iPhone 8,2021:04:20 10:11:02,4032x3024,4.0 mm,1/120,1.8,32
+banana,bananaA,bananaA31.jpg,20/04/2021,10:15,0,branco,1,bananaA31.jpg,1572 kB,iPhone 8,2021:04:20 10:15:12,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaA,bananaA32.jpg,20/04/2021,10:15,0,branco,1,bananaA32.jpg,1441 kB,iPhone 8,2021:04:20 10:15:19,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaA,bananaA33.jpg,20/04/2021,10:15,0,branco,1,bananaA33.jpg,1532 kB,iPhone 8,2021:04:20 10:15:26,4032x3024,4.0 mm,1/120,1.8,32
+banana,bananaA,bananaA34.jpg,20/04/2021,10:19,0,preto,1,bananaA34.jpg,2.4 MB,iPhone 8,2021:04:20 10:19:29,4032x3024,4.0 mm,1/40,1.8,25
+banana,bananaA,bananaA35.jpg,20/04/2021,10:19,0,preto,1,bananaA35.jpg,2.8 MB,iPhone 8,2021:04:20 10:19:36,4032x3024,4.0 mm,1/40,1.8,25
+banana,bananaA,bananaA36.jpg,20/04/2021,10:19,0,preto,1,bananaA36.jpg,3.2 MB,iPhone 8,2021:04:20 10:19:41,4032x3024,4.0 mm,1/120,1.8,50
+banana,bananaA,bananaA4.jpg,19/04/2021,23:07,1,branco,0,bananaA4.jpg,970 kB,iPhone 8,2021:04:19 23:07:07,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaA,bananaA5.jpg,19/04/2021,23:07,1,branco,0,bananaA5.jpg,1151 kB,iPhone 8,2021:04:19 23:07:19,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaA,bananaA6.jpg,19/04/2021,23:07,1,branco,0,bananaA6.jpg,943 kB,iPhone 8,2021:04:19 23:07:29,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaA,bananaA7.jpg,19/04/2021,23:12,1,preto,0,bananaA7.jpg,1115 kB,iPhone 8,2021:04:19 23:12:53,4032x3024,4.0 mm,1/15,1.8,50
+banana,bananaA,bananaA8.jpg,19/04/2021,23:12,1,preto,0,bananaA8.jpg,1194 kB,iPhone 8,2021:04:19 23:12:54,4032x3024,4.0 mm,1/15,1.8,50
+banana,bananaA,bananaA9.jpg,19/04/2021,23:12,1,preto,0,bananaA9.jpg,1495 kB,iPhone 8,2021:04:19 23:12:56,4032x3024,4.0 mm,1/15,1.8,64
+banana,bananaB,bananaB1.jpg,19/04/2021,23:01,1,azul,0,bananaB1.jpg,2.0 MB,iPhone 8,2021:04:19 23:01:18,4032x3024,4.0 mm,1/17,1.8,40
+banana,bananaB,bananaB10.jpg,19/04/2021,23:19,0,azul,0,bananaB10.jpg,1217 kB,iPhone 8,2021:04:19 23:19:17,4032x3024,4.0 mm,1/7,1.8,100
+banana,bananaB,bananaB11.jpg,19/04/2021,23:19,0,azul,0,bananaB11.jpg,1636 kB,iPhone 8,2021:04:19 23:19:26,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaB,bananaB12.jpg,19/04/2021,23:19,0,azul,0,bananaB12.jpg,1098 kB,iPhone 8,2021:04:19 23:19:28,4032x3024,4.0 mm,1/7,1.8,100
+banana,bananaB,bananaB13.jpg,19/04/2021,23:24,0,branco,0,bananaB13.jpg,885 kB,iPhone 8,2021:04:19 23:25:00,3024x4032,4.0 mm,1/16,1.8,100
+banana,bananaB,bananaB14.jpg,19/04/2021,23:25,0,branco,0,bananaB14.jpg,924 kB,iPhone 8,2021:04:19 23:25:02,3024x4032,4.0 mm,1/16,1.8,100
+banana,bananaB,bananaB15.jpg,19/04/2021,23:25,0,branco,0,bananaB15.jpg,1161 kB,iPhone 8,2021:04:19 23:25:04,3024x4032,4.0 mm,1/16,1.8,100
+banana,bananaB,bananaB16.jpg,19/04/2021,23:30,0,preto,0,bananaB16.jpg,1471 kB,iPhone 8,2021:04:19 23:30:36,4032x3024,4.0 mm,1/5,1.8,100
+banana,bananaB,bananaB17.jpg,19/04/2021,23:30,0,preto,0,bananaB17.jpg,1114 kB,iPhone 8,2021:04:19 23:30:40,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaB,bananaB18.jpg,19/04/2021,23:30,0,preto,0,bananaB18.jpg,1331 kB,iPhone 8,2021:04:19 23:30:44,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaB,bananaB19.jpg,20/04/2021,09:54,1,azul,1,bananaB19.jpg,3.2 MB,iPhone 8,2021:04:20 09:54:20,4032x3024,4.0 mm,1/120,1.8,64
+banana,bananaB,bananaB2.jpg,19/04/2021,23:01,1,azul,0,bananaB2.jpg,2041 kB,iPhone 8,2021:04:19 23:01:23,4032x3024,4.0 mm,1/15,1.8,40
+banana,bananaB,bananaB20.jpg,20/04/2021,09:54,1,azul,1,bananaB20.jpg,2.7 MB,iPhone 8,2021:04:20 09:54:27,4032x3024,4.0 mm,1/120,1.8,50
+banana,bananaB,bananaB21.jpg,20/04/2021,09:54,1,azul,1,bananaB21.jpg,3.2 MB,iPhone 8,2021:04:20 09:54:32,4032x3024,4.0 mm,1/48,1.8,25
+banana,bananaB,bananaB22.jpg,20/04/2021,09:58,1,branco,1,bananaB22.jpg,1991 kB,iPhone 8,2021:04:20 09:58:33,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaB,bananaB23.jpg,20/04/2021,09:58,1,branco,1,bananaB23.jpg,1800 kB,iPhone 8,2021:04:20 09:58:38,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaB,bananaB24.jpg,20/04/2021,09:58,1,branco,1,bananaB24.jpg,2.0 MB,iPhone 8,2021:04:20 09:58:44,4032x3024,4.0 mm,1/120,1.8,32
+banana,bananaB,bananaB25.jpg,20/04/2021,10:02,1,preto,1,bananaB25.jpg,2.4 MB,iPhone 8,2021:04:20 10:02:35,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaB,bananaB26.jpg,20/04/2021,10:02,1,preto,1,bananaB26.jpg,2.3 MB,iPhone 8,2021:04:20 10:02:39,4032x3024,4.0 mm,1/30,1.8,25
+banana,bananaB,bananaB27.jpg,20/04/2021,10:02,1,preto,1,bananaB27.jpg,2.4 MB,iPhone 8,2021:04:20 10:02:45,4032x3024,4.0 mm,1/30,1.8,40
+banana,bananaB,bananaB28.jpg,20/04/2021,10:11,0,azul,1,bananaB28.jpg,3.4 MB,iPhone 8,2021:04:20 10:11:16,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaB,bananaB29.jpg,20/04/2021,10:11,0,azul,1,bananaB29.jpg,2.8 MB,iPhone 8,2021:04:20 10:11:23,4032x3024,4.0 mm,1/124,1.8,20
+banana,bananaB,bananaB3.jpg,19/04/2021,23:01,1,azul,0,bananaB3.jpg,2.2 MB,iPhone 8,2021:04:19 23:01:27,4032x3024,4.0 mm,1/17,1.8,40
+banana,bananaB,bananaB30.jpg,20/04/2021,10:11,0,azul,1,bananaB30.jpg,3.5 MB,iPhone 8,2021:04:20 10:11:44,4032x3024,4.0 mm,1/120,1.8,32
+banana,bananaB,bananaB31.jpg,20/04/2021,10:15,0,branco,1,bananaB31.jpg,2.0 MB,iPhone 8,2021:04:20 10:15:35,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaB,bananaB32.jpg,20/04/2021,10:15,0,branco,1,bananaB32.jpg,1077 kB,iPhone 8,2021:04:20 10:15:41,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaB,bananaB33.jpg,20/04/2021,10:15,0,branco,1,bananaB33.jpg,2.4 MB,iPhone 8,2021:04:20 10:15:47,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaB,bananaB34.jpg,20/04/2021,10:19,0,preto,1,bananaB34.jpg,2.5 MB,iPhone 8,2021:04:20 10:19:49,4032x3024,4.0 mm,1/120,1.8,64
+banana,bananaB,bananaB35.jpg,20/04/2021,10:19,0,preto,1,bananaB35.jpg,2.2 MB,iPhone 8,2021:04:20 10:19:53,4032x3024,4.0 mm,1/40,1.8,20
+banana,bananaB,bananaB36.jpg,20/04/2021,10:19,0,preto,1,bananaB36.jpg,3.0 MB,iPhone 8,2021:04:20 10:19:58,4032x3024,4.0 mm,1/30,1.8,25
+banana,bananaB,bananaB4.jpg,19/04/2021,23:07,1,branco,0,bananaB4.jpg,626 kB,iPhone 8,2021:04:19 23:07:47,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaB,bananaB5.jpg,19/04/2021,23:07,1,branco,0,bananaB5.jpg,699 kB,iPhone 8,2021:04:19 23:07:56,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaB,bananaB6.jpg,19/04/2021,23:07,1,branco,0,bananaB6.jpg,601 kB,iPhone 8,2021:04:19 23:07:58,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaB,bananaB7.jpg,19/04/2021,23:13,1,preto,0,bananaB7.jpg,1550 kB,iPhone 8,2021:04:19 23:13:04,4032x3024,4.0 mm,1/15,1.8,50
+banana,bananaB,bananaB8.jpg,19/04/2021,23:13,1,preto,0,bananaB8.jpg,1631 kB,iPhone 8,2021:04:19 23:13:06,4032x3024,4.0 mm,1/15,1.8,50
+banana,bananaB,bananaB9.jpg,19/04/2021,23:13,1,preto,0,bananaB9.jpg,1721 kB,iPhone 8,2021:04:19 23:13:08,4032x3024,4.0 mm,1/15,1.8,50
+banana,bananaC,bananaC1.jpg,19/04/2021,23:01,1,azul,0,bananaC1.jpg,2.6 MB,iPhone 8,2021:04:19 23:01:41,4032x3024,4.0 mm,1/15,1.8,50
+banana,bananaC,bananaC10.jpg,19/04/2021,23:19,0,azul,0,bananaC10.jpg,1307 kB,iPhone 8,2021:04:19 23:19:54,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaC,bananaC11.jpg,19/04/2021,23:19,0,azul,0,bananaC11.jpg,1692 kB,iPhone 8,2021:04:19 23:19:56,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaC,bananaC12.jpg,19/04/2021,23:19,0,azul,0,bananaC12.jpg,1836 kB,iPhone 8,2021:04:19 23:19:58,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaC,bananaC13.jpg,19/04/2021,23:25,0,branco,0,bananaC13.jpg,526 kB,iPhone 8,2021:04:19 23:25:13,3024x4032,4.0 mm,1/16,1.8,80
+banana,bananaC,bananaC14.jpg,19/04/2021,23:25,0,branco,0,bananaC14.jpg,1123 kB,iPhone 8,2021:04:19 23:25:14,3024x4032,4.0 mm,1/16,1.8,100
+banana,bananaC,bananaC15.jpg,19/04/2021,23:25,0,branco,0,bananaC15.jpg,1135 kB,iPhone 8,2021:04:19 23:25:16,3024x4032,4.0 mm,1/16,1.8,80
+banana,bananaC,bananaC16.jpg,19/04/2021,23:30,0,preto,0,bananaC16.jpg,1537 kB,iPhone 8,2021:04:19 23:30:51,4032x3024,4.0 mm,1/5,1.8,100
+banana,bananaC,bananaC17.jpg,19/04/2021,23:31,0,preto,0,bananaC17.jpg,980 kB,iPhone 8,2021:04:19 23:31:01,4032x3024,4.0 mm,1/5,1.8,100
+banana,bananaC,bananaC18.jpg,19/04/2021,23:31,0,preto,0,bananaC18.jpg,1169 kB,iPhone 8,2021:04:19 23:31:05,4032x3024,4.0 mm,1/6,1.8,100
+banana,bananaC,bananaC19.jpg,20/04/2021,09:54,1,azul,1,bananaC19.jpg,4.1 MB,iPhone 8,2021:04:20 09:54:41,4032x3024,4.0 mm,1/120,1.8,64
+banana,bananaC,bananaC2.jpg,19/04/2021,23:01,1,azul,0,bananaC2.jpg,2.5 MB,iPhone 8,2021:04:19 23:01:43,4032x3024,4.0 mm,1/15,1.8,40
+banana,bananaC,bananaC20.jpg,20/04/2021,09:54,1,azul,1,bananaC20.jpg,2.5 MB,iPhone 8,2021:04:20 09:54:49,4032x3024,4.0 mm,1/48,1.8,32
+banana,bananaC,bananaC21.jpg,20/04/2021,09:54,1,azul,1,bananaC21.jpg,3.0 MB,iPhone 8,2021:04:20 09:54:54,4032x3024,4.0 mm,1/120,1.8,50
+banana,bananaC,bananaC22.jpg,20/04/2021,09:58,1,branco,1,bananaC22.jpg,2.3 MB,iPhone 8,2021:04:20 09:58:55,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaC,bananaC23.jpg,20/04/2021,09:58,1,branco,1,bananaC23.jpg,2.1 MB,iPhone 8,2021:04:20 09:58:59,4032x3024,4.0 mm,1/120,1.8,32
+banana,bananaC,bananaC24.jpg,20/04/2021,09:59,1,branco,1,bananaC24.jpg,2.1 MB,iPhone 8,2021:04:20 09:59:03,4032x3024,4.0 mm,1/120,1.8,20
+banana,bananaC,bananaC25.jpg,20/04/2021,10:02,1,preto,1,bananaC25.jpg,2.7 MB,iPhone 8,2021:04:20 10:02:52,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaC,bananaC26.jpg,20/04/2021,10:02,1,preto,1,bananaC26.jpg,3.1 MB,iPhone 8,2021:04:20 10:02:55,4032x3024,4.0 mm,1/17,1.8,40
+banana,bananaC,bananaC27.jpg,20/04/2021,10:02,1,preto,1,bananaC27.jpg,2.7 MB,iPhone 8,2021:04:20 10:02:59,4032x3024,4.0 mm,1/30,1.8,25
+banana,bananaC,bananaC28.jpg,20/04/2021,10:12,0,azul,1,bananaC28.jpg,3.6 MB,iPhone 8,2021:04:20 10:11:55,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaC,bananaC29.jpg,20/04/2021,10:12,0,azul,1,bananaC29.jpg,3.5 MB,iPhone 8,2021:04:20 10:12:01,4032x3024,4.0 mm,1/120,1.8,40
+banana,bananaC,bananaC3.jpg,19/04/2021,23:01,1,azul,0,bananaC3.jpg,2.4 MB,iPhone 8,2021:04:19 23:01:48,4032x3024,4.0 mm,1/15,1.8,40
+banana,bananaC,bananaC30.jpg,20/04/2021,10:12,0,azul,1,bananaC30.jpg,3.4 MB,iPhone 8,2021:04:20 10:12:09,4032x3024,4.0 mm,1/120,1.8,20
+banana,bananaC,bananaC31.jpg,20/04/2021,10:15,0,branco,1,bananaC31.jpg,1837 kB,iPhone 8,2021:04:20 10:15:58,4032x3024,4.0 mm,1/121,1.8,20
+banana,bananaC,bananaC32.jpg,20/04/2021,10:16,0,branco,1,bananaC32.jpg,1951 kB,iPhone 8,2021:04:20 10:16:03,4032x3024,4.0 mm,1/120,1.8,25
+banana,bananaC,bananaC33.jpg,20/04/2021,10:16,0,branco,1,bananaC33.jpg,1933 kB,iPhone 8,2021:04:20 10:16:11,4032x3024,4.0 mm,1/163,1.8,20
+banana,bananaC,bananaC34.jpg,20/04/2021,10:20,0,preto,1,bananaC34.jpg,2.7 MB,iPhone 8,2021:04:20 10:20:05,4032x3024,4.0 mm,1/40,1.8,25
+banana,bananaC,bananaC35.jpg,20/04/2021,10:20,0,preto,1,bananaC35.jpg,2.7 MB,iPhone 8,2021:04:20 10:20:09,4032x3024,4.0 mm,1/30,1.8,40
+banana,bananaC,bananaC36.jpg,20/04/2021,10:20,0,preto,1,bananaC36.jpg,2.2 MB,iPhone 8,2021:04:20 10:20:14,4032x3024,4.0 mm,1/120,1.8,50
+banana,bananaC,bananaC4.jpg,19/04/2021,23:08,1,branco,0,bananaC4.jpg,627 kB,iPhone 8,2021:04:19 23:08:15,4032x3024,4.0 mm,1/30,1.8,40
+banana,bananaC,bananaC5.jpg,19/04/2021,23:08,1,branco,0,bananaC5.jpg,1255 kB,iPhone 8,2021:04:19 23:08:18,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaC,bananaC6.jpg,19/04/2021,23:08,1,branco,0,bananaC6.jpg,1124 kB,iPhone 8,2021:04:19 23:08:21,4032x3024,4.0 mm,1/30,1.8,32
+banana,bananaC,bananaC7.jpg,19/04/2021,23:13,1,preto,0,bananaC7.jpg,2.2 MB,iPhone 8,2021:04:19 23:13:16,4032x3024,4.0 mm,1/15,1.8,80
+banana,bananaC,bananaC8.jpg,19/04/2021,23:13,1,preto,0,bananaC8.jpg,1679 kB,iPhone 8,2021:04:19 23:13:20,4032x3024,4.0 mm,1/15,1.8,64
+banana,bananaC,bananaC9.jpg,19/04/2021,23:13,1,preto,0,bananaC9.jpg,1997 kB,iPhone 8,2021:04:19 23:13:22,4032x3024,4.0 mm,1/15,1.8,50
+colher,colherA,colherA1.jpg,19/04/2021,23:02,1,azul,0,colherA1.jpg,2.9 MB,iPhone 8,2021:04:19 23:02:01,4032x3024,4.0 mm,1/15,1.8,64
+colher,colherA,colherA10.jpg,19/04/2021,23:22,0,azul,0,colherA10.jpg,2.2 MB,iPhone 8,2021:04:19 23:22:19,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherA,colherA11.jpg,19/04/2021,23:22,0,azul,0,colherA11.jpg,1599 kB,iPhone 8,2021:04:19 23:22:21,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherA,colherA12.jpg,19/04/2021,23:22,0,azul,0,colherA12.jpg,2.3 MB,iPhone 8,2021:04:19 23:22:23,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherA,colherA13.jpg,19/04/2021,23:25,0,branco,0,colherA13.jpg,1479 kB,iPhone 8,2021:04:19 23:25:28,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherA,colherA14.jpg,19/04/2021,23:25,0,branco,0,colherA14.jpg,1090 kB,iPhone 8,2021:04:19 23:25:29,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherA,colherA15.jpg,19/04/2021,23:25,0,branco,0,colherA15.jpg,1080 kB,iPhone 8,2021:04:19 23:25:31,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherA,colherA16.jpg,19/04/2021,23:31,0,preto,0,colherA16.jpg,1689 kB,iPhone 8,2021:04:19 23:31:43,4032x3024,4.0 mm,1/4,1.8,125
+colher,colherA,colherA17.jpg,19/04/2021,23:31,0,preto,0,colherA17.jpg,1719 kB,iPhone 8,2021:04:19 23:31:49,4032x3024,4.0 mm,1/4,1.8,125
+colher,colherA,colherA18.jpg,19/04/2021,23:31,0,preto,0,colherA18.jpg,1488 kB,iPhone 8,2021:04:19 23:31:53,4032x3024,4.0 mm,1/4,1.8,125
+colher,colherA,colherA19.jpg,20/04/2021,09:55,1,azul,1,colherA19.jpg,4.6 MB,iPhone 8,2021:04:20 09:55:29,4032x3024,4.0 mm,1/34,1.8,25
+colher,colherA,colherA2.jpg,19/04/2021,23:02,1,azul,0,colherA2.jpg,2.7 MB,iPhone 8,2021:04:19 23:02:04,4032x3024,4.0 mm,1/15,1.8,64
+colher,colherA,colherA20.jpg,20/04/2021,09:55,1,azul,1,colherA20.jpg,4.4 MB,iPhone 8,2021:04:20 09:55:33,4032x3024,4.0 mm,1/48,1.8,32
+colher,colherA,colherA21.jpg,20/04/2021,09:55,1,azul,1,colherA21.jpg,3.8 MB,iPhone 8,2021:04:20 09:55:39,4032x3024,4.0 mm,1/120,1.8,64
+colher,colherA,colherA22.jpg,20/04/2021,09:59,1,branco,1,colherA22.jpg,2.6 MB,iPhone 8,2021:04:20 09:59:11,4032x3024,4.0 mm,1/120,1.8,20
+colher,colherA,colherA23.jpg,20/04/2021,09:59,1,branco,1,colherA23.jpg,2.8 MB,iPhone 8,2021:04:20 09:59:17,4032x3024,4.0 mm,1/120,1.8,25
+colher,colherA,colherA24.jpg,20/04/2021,09:59,1,branco,1,colherA24.jpg,2.8 MB,iPhone 8,2021:04:20 09:59:22,4032x3024,4.0 mm,1/120,1.8,20
+colher,colherA,colherA25.jpg,20/04/2021,10:03,1,preto,1,colherA25.jpg,4.0 MB,iPhone 8,2021:04:20 10:03:06,4032x3024,4.0 mm,1/15,1.8,40
+colher,colherA,colherA26.jpg,20/04/2021,10:03,1,preto,1,colherA26.jpg,3.7 MB,iPhone 8,2021:04:20 10:03:10,4032x3024,4.0 mm,1/17,1.8,40
+colher,colherA,colherA27.jpg,20/04/2021,10:03,1,preto,1,colherA27.jpg,3.7 MB,iPhone 8,2021:04:20 10:03:14,4032x3024,4.0 mm,1/24,1.8,40
+colher,colherA,colherA28.jpg,20/04/2021,10:12,0,azul,1,colherA28.jpg,4.5 MB,iPhone 8,2021:04:20 10:12:21,4032x3024,4.0 mm,1/120,1.8,40
+colher,colherA,colherA29.jpg,20/04/2021,10:12,0,azul,1,colherA29.jpg,4.3 MB,iPhone 8,2021:04:20 10:12:26,4032x3024,4.0 mm,1/120,1.8,32
+colher,colherA,colherA3.jpg,19/04/2021,23:02,1,azul,0,colherA3.jpg,3.1 MB,iPhone 8,2021:04:19 23:02:08,4032x3024,4.0 mm,1/15,1.8,64
+colher,colherA,colherA30.jpg,20/04/2021,10:12,0,azul,1,colherA30.jpg,4.8 MB,iPhone 8,2021:04:20 10:12:33,4032x3024,4.0 mm,1/120,1.8,32
+colher,colherA,colherA31.jpg,20/04/2021,10:16,0,branco,1,colherA31.jpg,2.5 MB,iPhone 8,2021:04:20 10:16:20,4032x3024,4.0 mm,1/165,1.8,20
+colher,colherA,colherA32.jpg,20/04/2021,10:16,0,branco,1,colherA32.jpg,2.9 MB,iPhone 8,2021:04:20 10:16:25,4032x3024,4.0 mm,1/202,1.8,20
+colher,colherA,colherA33.jpg,20/04/2021,10:16,0,branco,1,colherA33.jpg,3.0 MB,iPhone 8,2021:04:20 10:16:30,4032x3024,4.0 mm,1/197,1.8,20
+colher,colherA,colherA34.jpg,20/04/2021,10:20,0,preto,1,colherA34.jpg,3.4 MB,iPhone 8,2021:04:20 10:20:22,3024x4032,4.0 mm,1/30,1.8,32
+colher,colherA,colherA35.jpg,20/04/2021,10:20,0,preto,1,colherA35.jpg,3.7 MB,iPhone 8,2021:04:20 10:20:27,3024x4032,4.0 mm,1/30,1.8,25
+colher,colherA,colherA36.jpg,20/04/2021,10:20,0,preto,1,colherA36.jpg,3.6 MB,iPhone 8,2021:04:20 10:20:33,3024x4032,4.0 mm,1/40,1.8,25
+colher,colherA,colherA4.jpg,19/04/2021,23:08,1,branco,0,colherA4.jpg,1576 kB,iPhone 8,2021:04:19 23:08:57,4032x3024,4.0 mm,1/30,1.8,25
+colher,colherA,colherA5.jpg,19/04/2021,23:08,1,branco,0,colherA5.jpg,1553 kB,iPhone 8,2021:04:19 23:09:09,4032x3024,4.0 mm,1/30,1.8,25
+colher,colherA,colherA6.jpg,19/04/2021,23:08,1,branco,0,colherA6.jpg,1245 kB,iPhone 8,2021:04:19 23:09:13,4032x3024,4.0 mm,1/30,1.8,25
+colher,colherA,colherA7.jpg,20/04/2021,00:05,1,preto,0,colherA7.jpg,2.5 MB,iPhone 8,2021:04:20 00:05:49,4032x3024,4.0 mm,1/16,1.8,100
+colher,colherA,colherA8.jpg,20/04/2021,00:05,1,preto,0,colherA8.jpg,2.2 MB,iPhone 8,2021:04:20 00:05:53,4032x3024,4.0 mm,1/15,1.8,100
+colher,colherA,colherA9.jpg,20/04/2021,00:06,1,preto,0,colherA9.jpg,2.1 MB,iPhone 8,2021:04:20 00:06:00,4032x3024,4.0 mm,1/7,1.8,100
+colher,colherB,colherB1.jpg,19/04/2021,23:02,1,azul,0,colherB1.jpg,3.2 MB,iPhone 8,2021:04:19 23:02:25,4032x3024,4.0 mm,1/15,1.8,64
+colher,colherB,colherB10.jpg,19/04/2021,23:22,0,azul,0,colherB10.jpg,2.1 MB,iPhone 8,2021:04:19 23:22:30,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherB,colherB11.jpg,19/04/2021,23:22,0,azul,0,colherB11.jpg,1959 kB,iPhone 8,2021:04:19 23:22:31,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherB,colherB12.jpg,19/04/2021,23:22,0,azul,0,colherB12.jpg,2.1 MB,iPhone 8,2021:04:19 23:22:33,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherB,colherB13.jpg,19/04/2021,23:25,0,branco,0,colherB13.jpg,1152 kB,iPhone 8,2021:04:19 23:25:47,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherB,colherB14.jpg,19/04/2021,23:25,0,branco,0,colherB14.jpg,1477 kB,iPhone 8,2021:04:19 23:25:48,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherB,colherB15.jpg,19/04/2021,23:25,0,branco,0,colherB15.jpg,1409 kB,iPhone 8,2021:04:19 23:25:50,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherB,colherB16.jpg,19/04/2021,23:31,0,preto,0,colherB16.jpg,2.3 MB,iPhone 8,2021:04:19 23:31:59,4032x3024,4.0 mm,1/4,1.8,125
+colher,colherB,colherB17.jpg,19/04/2021,23:31,0,preto,0,colherB17.jpg,1868 kB,iPhone 8,2021:04:19 23:32:01,4032x3024,4.0 mm,1/4,1.8,125
+colher,colherB,colherB18.jpg,19/04/2021,23:32,0,preto,0,colherB18.jpg,1640 kB,iPhone 8,2021:04:19 23:32:10,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherB,colherB19.jpg,20/04/2021,09:55,1,azul,1,colherB19.jpg,4.8 MB,iPhone 8,2021:04:20 09:55:50,4032x3024,4.0 mm,1/34,1.8,25
+colher,colherB,colherB2.jpg,19/04/2021,23:02,1,azul,0,colherB2.jpg,3.2 MB,iPhone 8,2021:04:19 23:02:28,4032x3024,4.0 mm,1/15,1.8,64
+colher,colherB,colherB20.jpg,20/04/2021,09:55,1,azul,1,colherB20.jpg,4.5 MB,iPhone 8,2021:04:20 09:55:54,4032x3024,4.0 mm,1/40,1.8,32
+colher,colherB,colherB21.jpg,20/04/2021,09:55,1,azul,1,colherB21.jpg,3.9 MB,iPhone 8,2021:04:20 09:55:59,4032x3024,4.0 mm,1/40,1.8,25
+colher,colherB,colherB22.jpg,20/04/2021,09:59,1,branco,1,colherB22.jpg,2.5 MB,iPhone 8,2021:04:20 09:59:30,4032x3024,4.0 mm,1/120,1.8,25
+colher,colherB,colherB23.jpg,20/04/2021,09:59,1,branco,1,colherB23.jpg,2.2 MB,iPhone 8,2021:04:20 09:59:33,4032x3024,4.0 mm,1/120,1.8,25
+colher,colherB,colherB24.jpg,20/04/2021,09:59,1,branco,1,colherB24.jpg,2.5 MB,iPhone 8,2021:04:20 09:59:39,4032x3024,4.0 mm,1/120,1.8,20
+colher,colherB,colherB25.jpg,20/04/2021,10:03,1,preto,1,colherB25.jpg,4.1 MB,iPhone 8,2021:04:20 10:03:23,4032x3024,4.0 mm,1/15,1.8,40
+colher,colherB,colherB26.jpg,20/04/2021,10:03,1,preto,1,colherB26.jpg,4.1 MB,iPhone 8,2021:04:20 10:03:28,4032x3024,4.0 mm,1/15,1.8,40
+colher,colherB,colherB27.jpg,20/04/2021,10:03,1,preto,1,colherB27.jpg,3.5 MB,iPhone 8,2021:04:20 10:03:32,4032x3024,4.0 mm,1/17,1.8,40
+colher,colherB,colherB28.jpg,20/04/2021,10:12,0,azul,1,colherB28.jpg,4.0 MB,iPhone 8,2021:04:20 10:12:40,4032x3024,4.0 mm,1/120,1.8,40
+colher,colherB,colherB29.jpg,20/04/2021,10:12,0,azul,1,colherB29.jpg,4.2 MB,iPhone 8,2021:04:20 10:12:45,4032x3024,4.0 mm,1/120,1.8,40
+colher,colherB,colherB3.jpg,19/04/2021,23:02,1,azul,0,colherB3.jpg,3.1 MB,iPhone 8,2021:04:19 23:02:31,4032x3024,4.0 mm,1/15,1.8,64
+colher,colherB,colherB30.jpg,20/04/2021,10:12,0,azul,1,colherB30.jpg,4.5 MB,iPhone 8,2021:04:20 10:12:51,4032x3024,4.0 mm,1/120,1.8,32
+colher,colherB,colherB31.jpg,20/04/2021,10:16,0,branco,1,colherB31.jpg,2.6 MB,iPhone 8,2021:04:20 10:16:37,4032x3024,4.0 mm,1/195,1.8,20
+colher,colherB,colherB32.jpg,20/04/2021,10:16,0,branco,1,colherB32.jpg,2.4 MB,iPhone 8,2021:04:20 10:16:41,4032x3024,4.0 mm,1/209,1.8,20
+colher,colherB,colherB33.jpg,20/04/2021,10:16,0,branco,1,colherB33.jpg,2.7 MB,iPhone 8,2021:04:20 10:16:47,4032x3024,4.0 mm,1/214,1.8,20
+colher,colherB,colherB34.jpg,20/04/2021,10:20,0,preto,1,colherB34.jpg,3.5 MB,iPhone 8,2021:04:20 10:20:40,3024x4032,4.0 mm,1/30,1.8,32
+colher,colherB,colherB35.jpg,20/04/2021,10:20,0,preto,1,colherB35.jpg,3.4 MB,iPhone 8,2021:04:20 10:20:45,3024x4032,4.0 mm,1/30,1.8,25
+colher,colherB,colherB36.jpg,20/04/2021,10:20,0,preto,1,colherB36.jpg,3.9 MB,iPhone 8,2021:04:20 10:20:51,3024x4032,4.0 mm,1/30,1.8,25
+colher,colherB,colherB4.jpg,19/04/2021,23:09,1,branco,0,colherB4.jpg,1044 kB,iPhone 8,2021:04:19 23:09:40,4032x3024,4.0 mm,1/30,1.8,25
+colher,colherB,colherB5.jpg,19/04/2021,23:09,1,branco,0,colherB5.jpg,1237 kB,iPhone 8,2021:04:19 23:09:43,4032x3024,4.0 mm,1/30,1.8,25
+colher,colherB,colherB6.jpg,19/04/2021,23:09,1,branco,0,colherB6.jpg,1396 kB,iPhone 8,2021:04:19 23:09:49,4032x3024,4.0 mm,1/30,1.8,25
+colher,colherB,colherB7.jpg,20/04/2021,00:06,1,preto,0,colherB7.jpg,2.5 MB,iPhone 8,2021:04:20 00:06:11,4032x3024,4.0 mm,1/13,1.8,100
+colher,colherB,colherB8.jpg,20/04/2021,00:06,1,preto,0,colherB8.jpg,2032 kB,iPhone 8,2021:04:20 00:06:16,4032x3024,4.0 mm,1/11,1.8,100
+colher,colherB,colherB9.jpg,20/04/2021,00:06,1,preto,0,colherB9.jpg,2.1 MB,iPhone 8,2021:04:20 00:06:23,4032x3024,4.0 mm,1/8,1.8,100
+colher,colherC,colherC1.jpg,19/04/2021,23:02,1,azul,0,colherC1.jpg,2.9 MB,iPhone 8,2021:04:19 23:02:41,4032x3024,4.0 mm,1/15,1.8,50
+colher,colherC,colherC10.jpg,19/04/2021,23:22,0,azul,0,colherC10.jpg,2.1 MB,iPhone 8,2021:04:19 23:22:40,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherC,colherC11.jpg,19/04/2021,23:22,0,azul,0,colherC11.jpg,2.1 MB,iPhone 8,2021:04:19 23:22:43,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherC,colherC12.jpg,19/04/2021,23:22,0,azul,0,colherC12.jpg,1732 kB,iPhone 8,2021:04:19 23:22:46,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherC,colherC13.jpg,19/04/2021,23:26,0,branco,0,colherC13.jpg,974 kB,iPhone 8,2021:04:19 23:26:00,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherC,colherC14.jpg,19/04/2021,23:26,0,branco,0,colherC14.jpg,871 kB,iPhone 8,2021:04:19 23:26:03,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherC,colherC15.jpg,19/04/2021,23:26,0,branco,0,colherC15.jpg,1333 kB,iPhone 8,2021:04:19 23:26:06,3024x4032,4.0 mm,1/16,1.8,80
+colher,colherC,colherC16.jpg,19/04/2021,23:33,0,preto,0,colherC16.jpg,1411 kB,iPhone 8,2021:04:19 23:33:53,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherC,colherC17.jpg,19/04/2021,23:34,0,preto,0,colherC17.jpg,1963 kB,iPhone 8,2021:04:19 23:34:05,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherC,colherC18.jpg,19/04/2021,23:34,0,preto,0,colherC18.jpg,1626 kB,iPhone 8,2021:04:19 23:34:16,4032x3024,4.0 mm,1/4,1.8,100
+colher,colherC,colherC19.jpg,20/04/2021,09:56,1,azul,1,colherC19.jpg,4.4 MB,iPhone 8,2021:04:20 09:56:09,4032x3024,4.0 mm,1/40,1.8,25
+colher,colherC,colherC2.jpg,19/04/2021,23:02,1,azul,0,colherC2.jpg,2.6 MB,iPhone 8,2021:04:19 23:02:46,4032x3024,4.0 mm,1/15,1.8,50
+colher,colherC,colherC20.jpg,20/04/2021,09:56,1,azul,1,colherC20.jpg,4.5 MB,iPhone 8,2021:04:20 09:56:16,4032x3024,4.0 mm,1/34,1.8,25
+colher,colherC,colherC21.jpg,20/04/2021,09:56,1,azul,1,colherC21.jpg,4.2 MB,iPhone 8,2021:04:20 09:56:21,4032x3024,4.0 mm,1/48,1.8,32
+colher,colherC,colherC22.jpg,20/04/2021,09:59,1,branco,1,colherC22.jpg,2.4 MB,iPhone 8,2021:04:20 09:59:48,4032x3024,4.0 mm,1/120,1.8,25
+colher,colherC,colherC23.jpg,20/04/2021,09:59,1,branco,1,colherC23.jpg,2.7 MB,iPhone 8,2021:04:20 09:59:54,4032x3024,4.0 mm,1/120,1.8,25
+colher,colherC,colherC24.jpg,20/04/2021,10:00,1,branco,1,colherC24.jpg,2.6 MB,iPhone 8,2021:04:20 10:00:00,4032x3024,4.0 mm,1/120,1.8,25
+colher,colherC,colherC25.jpg,20/04/2021,10:03,1,preto,1,colherC25.jpg,3.7 MB,iPhone 8,2021:04:20 10:03:45,4032x3024,4.0 mm,1/15,1.8,40
+colher,colherC,colherC26.jpg,20/04/2021,10:03,1,preto,1,colherC26.jpg,3.0 MB,iPhone 8,2021:04:20 10:03:49,4032x3024,4.0 mm,1/15,1.8,40
+colher,colherC,colherC27.jpg,20/04/2021,10:03,1,preto,1,colherC27.jpg,3.5 MB,iPhone 8,2021:04:20 10:03:55,4032x3024,4.0 mm,1/15,1.8,40
+colher,colherC,colherC28.jpg,20/04/2021,10:12,0,azul,1,colherC28.jpg,4.4 MB,iPhone 8,2021:04:20 10:12:58,4032x3024,4.0 mm,1/120,1.8,40
+colher,colherC,colherC29.jpg,20/04/2021,10:13,0,azul,1,colherC29.jpg,4.0 MB,iPhone 8,2021:04:20 10:13:24,4032x3024,4.0 mm,1/120,1.8,50
+colher,colherC,colherC3.jpg,19/04/2021,23:02,1,azul,0,colherC3.jpg,2.7 MB,iPhone 8,2021:04:19 23:02:54,4032x3024,4.0 mm,1/15,1.8,50
+colher,colherC,colherC30.jpg,20/04/2021,10:13,0,azul,1,colherC30.jpg,4.1 MB,iPhone 8,2021:04:20 10:13:31,4032x3024,4.0 mm,1/120,1.8,50
+colher,colherC,colherC31.jpg,20/04/2021,10:16,0,branco,1,colherC31.jpg,2.4 MB,iPhone 8,2021:04:20 10:16:56,4032x3024,4.0 mm,1/223,1.8,20
+colher,colherC,colherC32.jpg,20/04/2021,10:17,0,branco,1,colherC32.jpg,2.5 MB,iPhone 8,2021:04:20 10:17:02,4032x3024,4.0 mm,1/203,1.8,20
+colher,colherC,colherC33.jpg,20/04/2021,10:17,0,branco,1,colherC33.jpg,2.6 MB,iPhone 8,2021:04:20 10:17:06,4032x3024,4.0 mm,1/213,1.8,20
+colher,colherC,colherC34.jpg,20/04/2021,10:21,0,preto,1,colherC34.jpg,3.3 MB,iPhone 8,2021:04:20 10:21:01,3024x4032,4.0 mm,1/30,1.8,25
+colher,colherC,colherC35.jpg,20/04/2021,10:21,0,preto,1,colherC35.jpg,3.4 MB,iPhone 8,2021:04:20 10:21:08,3024x4032,4.0 mm,1/30,1.8,25
+colher,colherC,colherC36.jpg,20/04/2021,10:21,0,preto,1,colherC36.jpg,3.9 MB,iPhone 8,2021:04:20 10:21:31,4032x3024,4.0 mm,1/30,1.8,25
+colher,colherC,colherC4.jpg,19/04/2021,23:10,1,branco,0,colherC4.jpg,1234 kB,iPhone 8,2021:04:19 23:10:15,4032x3024,4.0 mm,1/30,1.8,32
+colher,colherC,colherC5.jpg,19/04/2021,23:10,1,branco,0,colherC5.jpg,1443 kB,iPhone 8,2021:04:19 23:10:17,4032x3024,4.0 mm,1/30,1.8,32
+colher,colherC,colherC6.jpg,19/04/2021,23:10,1,branco,0,colherC6.jpg,1213 kB,iPhone 8,2021:04:19 23:10:19,4032x3024,4.0 mm,1/30,1.8,32
+colher,colherC,colherC7.jpg,20/04/2021,00:06,1,preto,0,colherC7.jpg,2.5 MB,iPhone 8,2021:04:20 00:06:34,4032x3024,4.0 mm,1/15,1.8,100
+colher,colherC,colherC8.jpg,20/04/2021,00:07,1,preto,0,colherC8.jpg,2.1 MB,iPhone 8,2021:04:20 00:07:20,3024x4032,4.0 mm,1/12,1.8,100
+colher,colherC,colherC9.jpg,20/04/2021,00:07,1,preto,0,colherC9.jpg,2.4 MB,iPhone 8,2021:04:20 00:07:47,4032x3024,4.0 mm,1/14,1.8,100
+garfo,garfoA,garfoA1.jpg,17/04,12:00,1,azul,1,garfoA1.jpg,4.4 MB,SM-G9600,2021:04:17 11:59:12,4032x2268,4.3 mm,1/35,1.5,250
+garfo,garfoA,garfoA10.jpg,17/04,12:40,0,azul,1,garfoA10.jpg,5.5 MB,SM-G9600,2021:04:17 12:39:08,4032x2268,4.3 mm,1/376,2.4,50
+garfo,garfoA,garfoA11.jpg,17/04,12:40,0,azul,1,garfoA11.jpg,5.7 MB,SM-G9600,2021:04:17 12:39:09,4032x2268,4.3 mm,1/376,2.4,50
+garfo,garfoA,garfoA12.jpg,17/04,12:40,0,azul,1,garfoA12.jpg,5.6 MB,SM-G9600,2021:04:17 12:39:10,4032x2268,4.3 mm,1/376,2.4,50
+garfo,garfoA,garfoA13.jpg,17/04,12:48,0,branco,1,garfoA13.jpg,3.2 MB,SM-G9600,2021:04:17 12:48:06,4032x2268,4.3 mm,1/1761,2.4,50
+garfo,garfoA,garfoA14.jpg,17/04,12:48,0,branco,1,garfoA14.jpg,3.4 MB,SM-G9600,2021:04:17 12:48:07,4032x2268,4.3 mm,1/1761,2.4,50
+garfo,garfoA,garfoA15.jpg,17/04,12:48,0,branco,1,garfoA15.jpg,3.2 MB,SM-G9600,2021:04:17 12:48:07,4032x2268,4.3 mm,1/1761,2.4,50
+garfo,garfoA,garfoA16.jpg,17/04,12:57,0,preto,1,garfoA16.jpg,5.2 MB,SM-G9600,2021:04:17 12:56:13,4032x2268,4.3 mm,1/610,2.4,50
+garfo,garfoA,garfoA17.jpg,17/04,12:57,0,preto,1,garfoA17.jpg,5.4 MB,SM-G9600,2021:04:17 12:56:13,4032x2268,4.3 mm,1/602,2.4,50
+garfo,garfoA,garfoA18.jpg,17/04,12:57,0,preto,1,garfoA18.jpg,5.2 MB,SM-G9600,2021:04:17 12:56:14,4032x2268,4.3 mm,1/640,2.4,50
+garfo,garfoA,garfoA19.jpg,18/04,18:07,1,azul,0,garfoA19.jpg,2.5 MB,SM-G9600,2021:04:18 18:08:43,4032x2268,4.3 mm,1/17,1.5,250
+garfo,garfoA,garfoA2.jpg,17/04,12:00,1,azul,1,garfoA2.jpg,4.0 MB,SM-G9600,2021:04:17 11:59:10,4032x2268,4.3 mm,1/35,1.5,250
+garfo,garfoA,garfoA20.jpg,18/04,18:09,1,azul,0,garfoA20.jpg,2.7 MB,SM-G9600,2021:04:18 18:08:45,4032x2268,4.3 mm,1/17,1.5,250
+garfo,garfoA,garfoA21.jpg,18/04,18:09,1,azul,0,garfoA21.jpg,2.7 MB,SM-G9600,2021:04:18 18:08:47,4032x2268,4.3 mm,1/17,1.5,250
+garfo,garfoA,garfoA22.jpg,18/04,18:19,1,branco,0,garfoA22.jpg,2.4 MB,SM-G9600,2021:04:18 18:18:47,4032x2268,4.3 mm,1/40,1.5,250
+garfo,garfoA,garfoA23.jpg,18/04,18:19,1,branco,0,garfoA23.jpg,2.4 MB,SM-G9600,2021:04:18 18:18:50,4032x2268,4.3 mm,1/40,1.5,250
+garfo,garfoA,garfoA24.jpg,18/04,18:19,1,branco,0,garfoA24.jpg,2.5 MB,SM-G9600,2021:04:18 18:18:51,4032x2268,4.3 mm,1/40,1.5,250
+garfo,garfoA,garfoA25.jpg,18/04,18:25,1,preto,0,garfoA25.jpg,2.4 MB,SM-G9600,2021:04:18 18:24:24,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoA,garfoA26.jpg,18/04,18:25,1,preto,0,garfoA26.jpg,2.1 MB,SM-G9600,2021:04:18 18:24:27,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoA,garfoA27.jpg,18/04,18:25,1,preto,0,garfoA27.jpg,2.3 MB,SM-G9600,2021:04:18 18:24:29,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoA,garfoA28.jpg,18/04,18:41,0,azul,0,garfoA28.jpg,3.9 MB,SM-G9600,2021:04:18 18:39:53,4032x2268,4.3 mm,1/10,1.5,640
+garfo,garfoA,garfoA29.jpg,18/04,18:41,0,azul,0,garfoA29.jpg,3.8 MB,SM-G9600,2021:04:18 18:39:55,4032x2268,4.3 mm,1/10,1.5,640
+garfo,garfoA,garfoA3.jpg,17/04,12:00,1,azul,1,garfoA3.jpg,4.3 MB,SM-G9600,2021:04:17 11:59:13,4032x2268,4.3 mm,1/35,1.5,250
+garfo,garfoA,garfoA30.jpg,18/04,18:41,0,azul,0,garfoA30.jpg,4.1 MB,SM-G9600,2021:04:18 18:39:56,4032x2268,4.3 mm,1/10,1.5,640
+garfo,garfoA,garfoA31.jpg,18/04,18:45,0,branco,0,garfoA31.jpg,2.2 MB,SM-G9600,2021:04:18 18:44:26,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoA,garfoA32.jpg,18/04,18:45,0,branco,0,garfoA32.jpg,2.3 MB,SM-G9600,2021:04:18 18:44:28,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoA,garfoA33.jpg,18/04,18:45,0,branco,0,garfoA33.jpg,2.4 MB,SM-G9600,2021:04:18 18:44:29,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoA,garfoA34.jpg,18/04,18:49,0,preto,0,garfoA34.jpg,3.2 MB,SM-G9600,2021:04:18 18:48:22,4032x2268,4.3 mm,1/10,1.5,1250
+garfo,garfoA,garfoA36.jpg,18/04,18:49,0,preto,0,garfoA35.jpg,3.1 MB,SM-G9600,2021:04:18 18:48:24,4032x2268,4.3 mm,1/10,1.5,1250
+garfo,garfoA,garfoA36.jpg,18/04,18:49,0,preto,0,garfoA36.jpg,3.2 MB,SM-G9600,2021:04:18 18:48:26,4032x2268,4.3 mm,1/10,1.5,1250
+garfo,garfoA,garfoA4.jpg,17/04,12:12,1,branco,1,garfoA4.jpg,2.5 MB,SM-G9600,2021:04:17 12:12:06,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoA,garfoA5.jpg,17/04,12:12,1,branco,1,garfoA5.jpg,2.7 MB,SM-G9600,2021:04:17 12:12:08,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoA,garfoA6.jpg,17/04,12:12,1,branco,1,garfoA6.jpg,2.6 MB,SM-G9600,2021:04:17 12:12:09,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoA,garfoA7.jpg,17/04,12:21,1,preto,1,garfoA7.jpg,3.3 MB,SM-G9600,2021:04:17 12:20:37,4032x2268,4.3 mm,1/31,1.5,250
+garfo,garfoA,garfoA8.jpg,17/04,12:21,1,preto,1,garfoA8.jpg,3.6 MB,SM-G9600,2021:04:17 12:20:39,4032x2268,4.3 mm,1/31,1.5,250
+garfo,garfoA,garfoA9.jpg,17/04,12:21,1,preto,1,garfoA9.jpg,3.5 MB,SM-G9600,2021:04:17 12:20:41,4032x2268,4.3 mm,1/33,1.5,250
+garfo,garfoB,garfoB1.jpg,17/04,12:00,1,azul,1,garfoB1.jpg,4.2 MB,SM-G9600,2021:04:17 11:59:43,4032x2268,4.3 mm,1/32,1.5,250
+garfo,garfoB,garfoB10.jpg,17/04,12:40,0,azul,1,garfoB10.jpg,5.9 MB,SM-G9600,2021:04:17 12:39:21,4032x2268,4.3 mm,1/326,2.4,50
+garfo,garfoB,garfoB11.jpg,17/04,12:40,0,azul,1,garfoB11.jpg,5.9 MB,SM-G9600,2021:04:17 12:39:21,4032x2268,4.3 mm,1/326,2.4,50
+garfo,garfoB,garfoB12.jpg,17/04,12:40,0,azul,1,garfoB12.jpg,5.9 MB,SM-G9600,2021:04:17 12:39:22,4032x2268,4.3 mm,1/326,2.4,50
+garfo,garfoB,garfoB13.jpg,17/04,12:48,0,branco,1,garfoB13.jpg,3.5 MB,SM-G9600,2021:04:17 12:48:17,4032x2268,4.3 mm,1/1854,2.4,50
+garfo,garfoB,garfoB14.jpg,17/04,12:48,0,branco,1,garfoB14.jpg,3.4 MB,SM-G9600,2021:04:17 12:48:17,4032x2268,4.3 mm,1/1854,2.4,50
+garfo,garfoB,garfoB15.jpg,17/04,12:48,0,branco,1,garfoB15.jpg,3.5 MB,SM-G9600,2021:04:17 12:48:18,4032x2268,4.3 mm,1/1854,2.4,50
+garfo,garfoB,garfoB16.jpg,17/04,12:57,0,preto,1,garfoB16.jpg,5.1 MB,SM-G9600,2021:04:17 12:56:21,4032x2268,4.3 mm,1/645,2.4,50
+garfo,garfoB,garfoB17.jpg,17/04,12:57,0,preto,1,garfoB17.jpg,5.1 MB,SM-G9600,2021:04:17 12:56:22,4032x2268,4.3 mm,1/712,2.4,50
+garfo,garfoB,garfoB18.jpg,17/04,12:57,0,preto,1,garfoB18.jpg,5.2 MB,SM-G9600,2021:04:17 12:56:22,4032x2268,4.3 mm,1/645,2.4,50
+garfo,garfoB,garfoB19.jpg,18/04,18:09,1,azul,0,garfoB19.jpg,2.5 MB,SM-G9600,2021:04:18 18:09:03,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoB,garfoB2.jpg,17/04,12:00,1,azul,1,garfoB2.jpg,4.5 MB,SM-G9600,2021:04:17 11:59:46,4032x2268,4.3 mm,1/32,1.5,250
+garfo,garfoB,garfoB20.jpg,18/04,18:09,1,azul,0,garfoB20.jpg,2.9 MB,SM-G9600,2021:04:18 18:09:05,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoB,garfoB21.jpg,18/04,18:09,1,azul,0,garfoB21.jpg,3.2 MB,SM-G9600,2021:04:18 18:09:08,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoB,garfoB22.jpg,18/04,18:19,1,branco,0,garfoB22.jpg,2.3 MB,SM-G9600,2021:04:18 18:19:02,4032x2268,4.3 mm,1/40,1.5,320
+garfo,garfoB,garfoB23.jpg,18/04,18:19,1,branco,0,garfoB23.jpg,2.3 MB,SM-G9600,2021:04:18 18:19:04,4032x2268,4.3 mm,1/40,1.5,320
+garfo,garfoB,garfoB24.jpg,18/04,18:19,1,branco,0,garfoB24.jpg,2.3 MB,SM-G9600,2021:04:18 18:19:05,4032x2268,4.3 mm,1/40,1.5,320
+garfo,garfoB,garfoB25.jpg,18/04,18:25,1,preto,0,garfoB25.jpg,2.4 MB,SM-G9600,2021:04:18 18:24:52,4032x2268,4.3 mm,1/12,1.5,250
+garfo,garfoB,garfoB26.jpg,18/04,18:25,1,preto,0,garfoB26.jpg,2.2 MB,SM-G9600,2021:04:18 18:24:54,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoB,garfoB27.jpg,18/04,18:25,1,preto,0,garfoB27.jpg,2.3 MB,SM-G9600,2021:04:18 18:24:56,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoB,garfoB28.jpg,18/04,18:41,0,azul,0,garfoB28.jpg,2.6 MB,SM-G9600,2021:04:18 18:40:09,4032x2268,4.3 mm,1/10,1.5,800
+garfo,garfoB,garfoB29.jpg,18/04,18:41,0,azul,0,garfoB29.jpg,3.7 MB,SM-G9600,2021:04:18 18:40:11,4032x2268,4.3 mm,1/10,1.5,800
+garfo,garfoB,garfoB3.jpg,17/04,12:00,1,azul,1,garfoB3.jpg,4.5 MB,SM-G9600,2021:04:17 11:59:44,4032x2268,4.3 mm,1/32,1.5,250
+garfo,garfoB,garfoB30.jpg,18/04,18:41,0,azul,0,garfoB30.jpg,3.6 MB,SM-G9600,2021:04:18 18:40:13,4032x2268,4.3 mm,1/10,1.5,800
+garfo,garfoB,garfoB31.jpg,18/04,18:45,0,branco,0,garfoB31.jpg,2.4 MB,SM-G9600,2021:04:18 18:44:39,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoB,garfoB32.jpg,18/04,18:45,0,branco,0,garfoB32.jpg,2.3 MB,SM-G9600,2021:04:18 18:44:41,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoB,garfoB33.jpg,18/04,18:45,0,branco,0,garfoB33.jpg,2.4 MB,SM-G9600,2021:04:18 18:44:42,4032x2268,4.3 mm,1/13,1.5,250
+garfo,garfoB,garfoB34.jpg,18/04,18:49,0,preto,0,garfoB34.jpg,2.8 MB,SM-G9600,2021:04:18 18:48:37,4032x2268,4.3 mm,1/8,1.5,1250
+garfo,garfoB,garfoB36.jpg,18/04,18:49,0,preto,0,garfoB35.jpg,2.8 MB,SM-G9600,2021:04:18 18:48:39,4032x2268,4.3 mm,1/8,1.5,1250
+garfo,garfoB,garfoB36.jpg,18/04,18:49,0,preto,0,garfoB36.jpg,2.7 MB,SM-G9600,2021:04:18 18:48:42,4032x2268,4.3 mm,1/8,1.5,1250
+garfo,garfoB,garfoB4.jpg,17/04,12:12,1,branco,1,garfoB4.jpg,2.7 MB,SM-G9600,2021:04:17 12:12:23,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoB,garfoB5.jpg,17/04,12:12,1,branco,1,garfoB5.jpg,2.7 MB,SM-G9600,2021:04:17 12:12:24,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoB,garfoB6.jpg,17/04,12:12,1,branco,1,garfoB6.jpg,2.7 MB,SM-G9600,2021:04:17 12:12:24,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoB,garfoB7.jpg,17/04,12:21,1,preto,1,garfoB7.jpg,3.2 MB,SM-G9600,2021:04:17 12:20:49,4032x2268,4.3 mm,1/34,1.5,250
+garfo,garfoB,garfoB8.jpg,17/04,12:21,1,preto,1,garfoB8.jpg,2.8 MB,SM-G9600,2021:04:17 12:20:51,4032x2268,4.3 mm,1/34,1.5,250
+garfo,garfoB,garfoB9.jpg,17/04,12:21,1,preto,1,garfoB9.jpg,3.5 MB,SM-G9600,2021:04:17 12:20:53,4032x2268,4.3 mm,1/31,1.5,250
+garfo,garfoC,garfoC1.jpg,17/04,12:00,1,azul,1,garfoC1.jpg,4.9 MB,SM-G9600,2021:04:17 12:00:05,4032x2268,4.3 mm,1/30,1.5,250
+garfo,garfoC,garfoC10.jpg,17/04,12:40,0,azul,1,garfoC10.jpg,6.2 MB,SM-G9600,2021:04:17 12:39:31,4032x2268,4.3 mm,1/309,2.4,50
+garfo,garfoC,garfoC11.jpg,17/04,12:40,0,azul,1,garfoC11.jpg,6.2 MB,SM-G9600,2021:04:17 12:39:32,4032x2268,4.3 mm,1/309,2.4,50
+garfo,garfoC,garfoC12.jpg,17/04,12:40,0,azul,1,garfoC12.jpg,6.2 MB,SM-G9600,2021:04:17 12:39:32,4032x2268,4.3 mm,1/309,2.4,50
+garfo,garfoC,garfoC13.jpg,17/04,12:48,0,branco,1,garfoC13.jpg,3.7 MB,SM-G9600,2021:04:17 12:48:26,4032x2268,4.3 mm,1/1478,2.4,50
+garfo,garfoC,garfoC14.jpg,17/04,12:48,0,branco,1,garfoC14.jpg,3.4 MB,SM-G9600,2021:04:17 12:48:26,4032x2268,4.3 mm,1/1478,2.4,50
+garfo,garfoC,garfoC15.jpg,17/04,12:48,0,branco,1,garfoC15.jpg,3.6 MB,SM-G9600,2021:04:17 12:48:27,4032x2268,4.3 mm,1/1478,2.4,50
+garfo,garfoC,garfoC16.jpg,17/04,12:57,0,preto,1,garfoC16.jpg,5.5 MB,SM-G9600,2021:04:17 12:56:30,4032x2268,4.3 mm,1/559,2.4,50
+garfo,garfoC,garfoC17.jpg,17/04,12:57,0,preto,1,garfoC17.jpg,5.3 MB,SM-G9600,2021:04:17 12:56:31,4032x2268,4.3 mm,1/559,2.4,50
+garfo,garfoC,garfoC18.jpg,17/04,12:57,0,preto,1,garfoC18.jpg,5.4 MB,SM-G9600,2021:04:17 12:56:30,4032x2268,4.3 mm,1/559,2.4,50
+garfo,garfoC,garfoC19.jpg,18/04,18:09,1,azul,0,garfoC19.jpg,3.6 MB,SM-G9600,2021:04:18 18:09:20,4032x2268,4.3 mm,1/12,1.5,250
+garfo,garfoC,garfoC2.jpg,17/04,12:00,1,azul,1,garfoC2.jpg,4.9 MB,SM-G9600,2021:04:17 12:00:08,4032x2268,4.3 mm,1/30,1.5,250
+garfo,garfoC,garfoC20.jpg,18/04,18:09,1,azul,0,garfoC20.jpg,2.6 MB,SM-G9600,2021:04:18 18:09:22,4032x2268,4.3 mm,1/12,1.5,250
+garfo,garfoC,garfoC21.jpg,18/04,18:09,1,azul,0,garfoC21.jpg,3.2 MB,SM-G9600,2021:04:18 18:09:24,4032x2268,4.3 mm,1/12,1.5,250
+garfo,garfoC,garfoC22.jpg,18/04,18:19,1,branco,0,garfoC22.jpg,2.4 MB,SM-G9600,2021:04:18 18:19:14,4032x2268,4.3 mm,1/40,1.5,320
+garfo,garfoC,garfoC23.jpg,18/04,18:19,1,branco,0,garfoC23.jpg,2.2 MB,SM-G9600,2021:04:18 18:19:15,4032x2268,4.3 mm,1/40,1.5,320
+garfo,garfoC,garfoC24.jpg,18/04,18:19,1,branco,0,garfoC24.jpg,2.5 MB,SM-G9600,2021:04:18 18:19:17,4032x2268,4.3 mm,1/40,1.5,320
+garfo,garfoC,garfoC25.jpg,18/04,18:25,1,preto,0,garfoC25.jpg,2.6 MB,SM-G9600,2021:04:18 18:25:06,4032x2268,4.3 mm,1/10,1.5,320
+garfo,garfoC,garfoC26.jpg,18/04,18:25,1,preto,0,garfoC26.jpg,2.2 MB,SM-G9600,2021:04:18 18:25:08,4032x2268,4.3 mm,1/10,1.5,320
+garfo,garfoC,garfoC27.jpg,18/04,18:25,1,preto,0,garfoC27.jpg,2.6 MB,SM-G9600,2021:04:18 18:25:10,4032x2268,4.3 mm,1/10,1.5,320
+garfo,garfoC,garfoC28.jpg,18/04,18:41,0,azul,0,garfoC28.jpg,3.2 MB,SM-G9600,2021:04:18 18:40:32,4032x2268,4.3 mm,1/10,1.5,1000
+garfo,garfoC,garfoC29.jpg,18/04,18:41,0,azul,0,garfoC29.jpg,3.2 MB,SM-G9600,2021:04:18 18:40:35,4032x2268,4.3 mm,1/10,1.5,800
+garfo,garfoC,garfoC3.jpg,17/04,12:00,1,azul,1,garfoC3.jpg,4.6 MB,SM-G9600,2021:04:17 12:00:07,4032x2268,4.3 mm,1/30,1.5,250
+garfo,garfoC,garfoC30.jpg,18/04,18:41,0,azul,0,garfoC30.jpg,2.8 MB,SM-G9600,2021:04:18 18:40:39,4032x2268,4.3 mm,1/10,1.5,800
+garfo,garfoC,garfoC31.jpg,18/04,18:45,0,branco,0,garfoC31.jpg,2.4 MB,SM-G9600,2021:04:18 18:44:53,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoC,garfoC32.jpg,18/04,18:45,0,branco,0,garfoC32.jpg,2.6 MB,SM-G9600,2021:04:18 18:44:55,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoC,garfoC33.jpg,18/04,18:45,0,branco,0,garfoC33.jpg,2.5 MB,SM-G9600,2021:04:18 18:44:56,4032x2268,4.3 mm,1/15,1.5,250
+garfo,garfoC,garfoC34.jpg,18/04,18:49,0,preto,0,garfoC34.jpg,3.3 MB,SM-G9600,2021:04:18 18:48:55,4032x2268,4.3 mm,1/7,1.5,1250
+garfo,garfoC,garfoC36.jpg,18/04,18:49,0,preto,0,garfoC35.jpg,3.1 MB,SM-G9600,2021:04:18 18:48:58,4032x2268,4.3 mm,1/7,1.5,1250
+garfo,garfoC,garfoC36.jpg,18/04,18:49,0,preto,0,garfoC36.jpg,2.8 MB,SM-G9600,2021:04:18 18:49:00,4032x2268,4.3 mm,1/7,1.5,1250
+garfo,garfoC,garfoC4.jpg,17/04,12:12,1,branco,1,garfoC4.jpg,2.9 MB,SM-G9600,2021:04:17 12:12:32,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoC,garfoC5.jpg,17/04,12:12,1,branco,1,garfoC5.jpg,2.7 MB,SM-G9600,2021:04:17 12:12:34,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoC,garfoC6.jpg,17/04,12:12,1,branco,1,garfoC6.jpg,2.7 MB,SM-G9600,2021:04:17 12:12:33,4032x2268,4.3 mm,1/60,2.4,250
+garfo,garfoC,garfoC7.jpg,17/04,12:21,1,preto,1,garfoC7.jpg,3.7 MB,SM-G9600,2021:04:17 12:21:04,4032x2268,4.3 mm,1/27,1.5,250
+garfo,garfoC,garfoC8.jpg,17/04,12:21,1,preto,1,garfoC8.jpg,3.5 MB,SM-G9600,2021:04:17 12:21:07,4032x2268,4.3 mm,1/27,1.5,250
+garfo,garfoC,garfoC9.jpg,17/04,12:21,1,preto,1,garfoC9.jpg,3.8 MB,SM-G9600,2021:04:17 12:21:08,4032x2268,4.3 mm,1/27,1.5,250
+lapis,lapisA,lapisA1.jpg,17/04,11:57,1,azul,1,lapisA1.jpg,4.6 MB,SM-G9600,2021:04:17 11:55:43,4032x2268,4.3 mm,1/29,1.5,250
+lapis,lapisA,lapisA10.jpg,17/04,12:38,0,azul,1,lapisA10.jpg,6.5 MB,SM-G9600,2021:04:17 12:37:25,4032x2268,4.3 mm,1/195,2.4,50
+lapis,lapisA,lapisA11.jpg,17/04,12:38,0,azul,1,lapisA11.jpg,6.5 MB,SM-G9600,2021:04:17 12:37:26,4032x2268,4.3 mm,1/176,2.4,50
+lapis,lapisA,lapisA12.jpg,17/04,12:38,0,azul,1,lapisA12.jpg,6.9 MB,SM-G9600,2021:04:17 12:37:27,4032x2268,4.3 mm,1/194,2.4,50
+lapis,lapisA,lapisA13.jpg,17/04,12:45,0,branco,1,lapisA13.jpg,3.6 MB,SM-G9600,2021:04:17 12:45:06,4032x2268,4.3 mm,1/1447,2.4,50
+lapis,lapisA,lapisA14.jpg,17/04,12:45,0,branco,1,lapisA14.jpg,3.5 MB,SM-G9600,2021:04:17 12:45:06,4032x2268,4.3 mm,1/1447,2.4,50
+lapis,lapisA,lapisA15.jpg,17/04,12:45,0,branco,1,lapisA15.jpg,3.6 MB,SM-G9600,2021:04:17 12:45:07,4032x2268,4.3 mm,1/1447,2.4,50
+lapis,lapisA,lapisA16.jpg,17/04,12:55,0,preto,1,lapisA16.jpg,6.7 MB,SM-G9600,2021:04:17 12:55:11,4032x2268,4.3 mm,1/120,2.4,64
+lapis,lapisA,lapisA17.jpg,17/04,12:55,0,preto,1,lapisA17.jpg,6.6 MB,SM-G9600,2021:04:17 12:55:11,4032x2268,4.3 mm,1/120,2.4,80
+lapis,lapisA,lapisA18.jpg,17/04,12:55,0,preto,1,lapisA18.jpg,6.5 MB,SM-G9600,2021:04:17 12:55:12,4032x2268,4.3 mm,1/120,2.4,64
+lapis,lapisA,lapisA19.jpg,18/04,11:57,1,azul,0,lapisA19.jpg,3.4 MB,SM-G9600,2021:04:18 18:07:05,4032x2268,4.3 mm,1/10,1.5,250
+lapis,lapisA,lapisA2.jpg,17/04,11:57,1,azul,1,lapisA2.jpg,4.8 MB,SM-G9600,2021:04:17 11:55:45,4032x2268,4.3 mm,1/27,1.5,250
+lapis,lapisA,lapisA20.jpg,18/04,18:07,1,azul,0,lapisA20.jpg,3.7 MB,SM-G9600,2021:04:18 18:07:07,4032x2268,4.3 mm,1/10,1.5,250
+lapis,lapisA,lapisA21.jpg,18/04,18:07,1,azul,0,lapisA21.jpg,3.5 MB,SM-G9600,2021:04:18 18:07:09,4032x2268,4.3 mm,1/10,1.5,250
+lapis,lapisA,lapisA22.jpg,18/04,18:18,1,branco,0,lapisA22.jpg,2.4 MB,SM-G9600,2021:04:18 18:17:23,4032x2268,4.3 mm,1/30,1.5,250
+lapis,lapisA,lapisA23.jpg,18/04,18:18,1,branco,0,lapisA23.jpg,2.4 MB,SM-G9600,2021:04:18 18:17:24,4032x2268,4.3 mm,1/30,1.5,250
+lapis,lapisA,lapisA24.jpg,18/04,18:18,1,branco,0,lapisA24.jpg,2.7 MB,SM-G9600,2021:04:18 18:17:26,4032x2268,4.3 mm,1/40,1.5,320
+lapis,lapisA,lapisA25.jpg,18/04,18:23,1,preto,0,lapisA25.jpg,3.9 MB,SM-G9600,2021:04:18 18:23:23,4032x2268,4.3 mm,1/10,1.5,640
+lapis,lapisA,lapisA26.jpg,18/04,18:23,1,preto,0,lapisA26.jpg,4.0 MB,SM-G9600,2021:04:18 18:23:25,4032x2268,4.3 mm,1/10,1.5,640
+lapis,lapisA,lapisA27.jpg,18/04,18:23,1,preto,0,lapisA27.jpg,4.5 MB,SM-G9600,2021:04:18 18:23:27,4032x2268,4.3 mm,1/10,1.5,640
+lapis,lapisA,lapisA28.jpg,18/04,18:39,0,azul,0,lapisA28.jpg,2.9 MB,SM-G9600,2021:04:18 18:38:30,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisA,lapisA29.jpg,18/04,18:39,0,azul,0,lapisA29.jpg,3.1 MB,SM-G9600,2021:04:18 18:38:31,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisA,lapisA3.jpg,17/04,11:57,1,azul,1,lapisA3.jpg,5.1 MB,SM-G9600,2021:04:17 11:55:47,4032x2268,4.3 mm,1/27,1.5,250
+lapis,lapisA,lapisA30.jpg,18/04,18:39,0,azul,0,lapisA30.jpg,3.2 MB,SM-G9600,2021:04:18 18:38:33,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisA,lapisA31.jpg,18/04,18:43,0,branco,0,lapisA31.jpg,2.6 MB,SM-G9600,2021:04:18 18:43:07,4032x2268,4.3 mm,1/15,1.5,250
+lapis,lapisA,lapisA32.jpg,18/04,18:43,0,branco,0,lapisA32.jpg,2.9 MB,SM-G9600,2021:04:18 18:43:09,4032x2268,4.3 mm,1/15,1.5,250
+lapis,lapisA,lapisA33.jpg,18/04,18:43,0,branco,0,lapisA33.jpg,2.7 MB,SM-G9600,2021:04:18 18:43:11,4032x2268,4.3 mm,1/15,1.5,250
+lapis,lapisA,lapisA34.jpg,18/04,18:47,0,preto,0,lapisA34.jpg,3.3 MB,SM-G9600,2021:04:18 18:47:17,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisA,lapisA36.jpg,18/04,18:47,0,preto,0,lapisA35.jpg,3.4 MB,SM-G9600,2021:04:18 18:47:19,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisA,lapisA36.jpg,18/04,18:47,0,preto,0,lapisA36.jpg,3.1 MB,SM-G9600,2021:04:18 18:47:22,4032x2268,4.3 mm,1/7,1.5,1250
+lapis,lapisA,lapisA4.jpg,17/04,12:09,1,branco,1,lapisA4.jpg,3.1 MB,SM-G9600,2021:04:17 12:08:31,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisA,lapisA5.jpg,17/04,12:09,1,branco,1,lapisA5.jpg,3.1 MB,SM-G9600,2021:04:17 12:08:33,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisA,lapisA6.jpg,17/04,12:09,1,branco,1,lapisA6.jpg,2.9 MB,SM-G9600,2021:04:17 12:08:32,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisA,lapisA7.jpg,17/04,12:19,1,preto,1,lapisA7.jpg,4.4 MB,SM-G9600,2021:04:17 12:18:43,4032x2268,4.3 mm,1/14,1.5,250
+lapis,lapisA,lapisA8.jpg,17/04,12:19,1,preto,1,lapisA8.jpg,4.1 MB,SM-G9600,2021:04:17 12:18:45,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisA,lapisA9.jpg,17/04,12:19,1,preto,1,lapisA9.jpg,4.1 MB,SM-G9600,2021:04:17 12:18:41,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisB,lapisB1.jpg,17/04,11:57,1,azul,1,lapisB1.jpg,4.4 MB,SM-G9600,2021:04:17 11:56:06,4032x2268,4.3 mm,1/19,1.5,250
+lapis,lapisB,lapisB10.jpg,17/04,12:38,0,azul,1,lapisB10.jpg,6.3 MB,SM-G9600,2021:04:17 12:37:39,4032x2268,4.3 mm,1/138,2.4,50
+lapis,lapisB,lapisB11.jpg,17/04,12:38,0,azul,1,lapisB11.jpg,6.8 MB,SM-G9600,2021:04:17 12:37:40,4032x2268,4.3 mm,1/138,2.4,50
+lapis,lapisB,lapisB12.jpg,17/04,12:38,0,azul,1,lapisB12.jpg,6.6 MB,SM-G9600,2021:04:17 12:37:41,4032x2268,4.3 mm,1/138,2.4,50
+lapis,lapisB,lapisB13.jpg,17/04,12:45,0,branco,1,lapisB13.jpg,3.8 MB,SM-G9600,2021:04:17 12:45:14,4032x2268,4.3 mm,1/1445,2.4,50
+lapis,lapisB,lapisB14.jpg,17/04,12:45,0,branco,1,lapisB14.jpg,3.9 MB,SM-G9600,2021:04:17 12:45:14,4032x2268,4.3 mm,1/1445,2.4,50
+lapis,lapisB,lapisB15.jpg,17/04,12:45,0,branco,1,lapisB15.jpg,3.7 MB,SM-G9600,2021:04:17 12:45:15,4032x2268,4.3 mm,1/1312,2.4,50
+lapis,lapisB,lapisB16.jpg,17/04,12:55,0,preto,1,lapisB16.jpg,6.9 MB,SM-G9600,2021:04:17 12:55:18,4032x2268,4.3 mm,1/120,2.4,80
+lapis,lapisB,lapisB17.jpg,17/04,12:55,0,preto,1,lapisB17.jpg,6.4 MB,SM-G9600,2021:04:17 12:55:18,4032x2268,4.3 mm,1/120,2.4,80
+lapis,lapisB,lapisB18.jpg,17/04,12:55,0,preto,1,lapisB18.jpg,6.7 MB,SM-G9600,2021:04:17 12:55:19,4032x2268,4.3 mm,1/120,2.4,80
+lapis,lapisB,lapisB19.jpg,18/04,18:07,1,azul,0,lapisB19.jpg,3.6 MB,SM-G9600,2021:04:18 18:07:18,4032x2268,4.3 mm,1/10,1.5,320
+lapis,lapisB,lapisB2.jpg,17/04,11:57,1,azul,1,lapisB2.jpg,4.8 MB,SM-G9600,2021:04:17 11:56:07,4032x2268,4.3 mm,1/19,1.5,250
+lapis,lapisB,lapisB20.jpg,18/04,18:07,1,azul,0,lapisB20.jpg,3.2 MB,SM-G9600,2021:04:18 18:07:20,4032x2268,4.3 mm,1/10,1.5,320
+lapis,lapisB,lapisB21.jpg,18/04,18:07,1,azul,0,lapisB21.jpg,3.7 MB,SM-G9600,2021:04:18 18:07:22,4032x2268,4.3 mm,1/10,1.5,320
+lapis,lapisB,lapisB22.jpg,18/04,18:18,1,branco,0,lapisB22.jpg,2.5 MB,SM-G9600,2021:04:18 18:17:46,4032x2268,4.3 mm,1/40,1.5,320
+lapis,lapisB,lapisB23.jpg,18/04,18:18,1,branco,0,lapisB23.jpg,2.8 MB,SM-G9600,2021:04:18 18:17:48,4032x2268,4.3 mm,1/40,1.5,320
+lapis,lapisB,lapisB24.jpg,18/04,18:18,1,branco,0,lapisB24.jpg,2.7 MB,SM-G9600,2021:04:18 18:17:49,4032x2268,4.3 mm,1/40,1.5,320
+lapis,lapisB,lapisB25.jpg,18/04,18:23,1,preto,0,lapisB25.jpg,3.3 MB,SM-G9600,2021:04:18 18:23:34,4032x2268,4.3 mm,1/10,1.5,500
+lapis,lapisB,lapisB26.jpg,18/04,18:23,1,preto,0,lapisB26.jpg,3.9 MB,SM-G9600,2021:04:18 18:23:36,4032x2268,4.3 mm,1/10,1.5,500
+lapis,lapisB,lapisB27.jpg,18/04,18:23,1,preto,0,lapisB27.jpg,4.0 MB,SM-G9600,2021:04:18 18:23:38,4032x2268,4.3 mm,1/10,1.5,500
+lapis,lapisB,lapisB28.jpg,18/04,18:39,0,azul,0,lapisB28.jpg,2.7 MB,SM-G9600,2021:04:18 18:38:40,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisB,lapisB29.jpg,18/04,18:39,0,azul,0,lapisB29.jpg,2.9 MB,SM-G9600,2021:04:18 18:38:42,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisB,lapisB3.jpg,17/04,11:57,1,azul,1,lapisB3.jpg,4.6 MB,SM-G9600,2021:04:17 11:56:08,4032x2268,4.3 mm,1/19,1.5,250
+lapis,lapisB,lapisB30.jpg,18/04,18:39,0,azul,0,lapisB30.jpg,2.9 MB,SM-G9600,2021:04:18 18:38:44,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisB,lapisB31.jpg,18/04,18:43,0,branco,0,lapisB31.jpg,2.4 MB,SM-G9600,2021:04:18 18:43:20,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisB,lapisB32.jpg,18/04,18:43,0,branco,0,lapisB32.jpg,2.3 MB,SM-G9600,2021:04:18 18:43:22,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisB,lapisB33.jpg,18/04,18:43,0,branco,0,lapisB33.jpg,2.4 MB,SM-G9600,2021:04:18 18:43:23,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisB,lapisB34.jpg,18/04,18:47,0,preto,0,lapisB34.jpg,3.3 MB,SM-G9600,2021:04:18 18:47:30,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisB,lapisB36.jpg,18/04,18:47,0,preto,0,lapisB35.jpg,3.2 MB,SM-G9600,2021:04:18 18:47:32,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisB,lapisB36.jpg,18/04,18:47,0,preto,0,lapisB36.jpg,3.4 MB,SM-G9600,2021:04:18 18:47:35,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisB,lapisB4.jpg,17/04,12:09,1,branco,1,lapisB4.jpg,3.1 MB,SM-G9600,2021:04:17 12:08:45,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisB,lapisB5.jpg,17/04,12:09,1,branco,1,lapisB5.jpg,3.1 MB,SM-G9600,2021:04:17 12:08:46,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisB,lapisB6.jpg,17/04,12:09,1,branco,1,lapisB6.jpg,3.2 MB,SM-G9600,2021:04:17 12:08:47,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisB,lapisB7.jpg,17/04,12:19,1,preto,1,lapisB7.jpg,4.4 MB,SM-G9600,2021:04:17 12:18:55,4032x2268,4.3 mm,1/14,1.5,250
+lapis,lapisB,lapisB8.jpg,17/04,12:19,1,preto,1,lapisB8.jpg,4.1 MB,SM-G9600,2021:04:17 12:18:57,4032x2268,4.3 mm,1/14,1.5,250
+lapis,lapisB,lapisB9.jpg,17/04,12:19,1,preto,1,lapisB9.jpg,4.4 MB,SM-G9600,2021:04:17 12:18:58,4032x2268,4.3 mm,1/14,1.5,250
+lapis,lapisC,lapisC1.jpg,17/04,11:57,1,azul,1,lapisC1.jpg,5.1 MB,SM-G9600,2021:04:17 11:56:19,4032x2268,4.3 mm,1/19,1.5,250
+lapis,lapisC,lapisC10.jpg,17/04,12:38,0,azul,1,lapisC10.jpg,6.6 MB,SM-G9600,2021:04:17 12:37:50,4032x2268,4.3 mm,1/158,2.4,50
+lapis,lapisC,lapisC11.jpg,17/04,12:38,0,azul,1,lapisC11.jpg,6.6 MB,SM-G9600,2021:04:17 12:37:49,4032x2268,4.3 mm,1/145,2.4,50
+lapis,lapisC,lapisC12.jpg,17/04,12:38,0,azul,1,lapisC12.jpg,6.3 MB,SM-G9600,2021:04:17 12:37:50,4032x2268,4.3 mm,1/158,2.4,50
+lapis,lapisC,lapisC13.jpg,17/04,12:45,0,branco,1,lapisC13.jpg,3.8 MB,SM-G9600,2021:04:17 12:45:21,4032x2268,4.3 mm,1/1265,2.4,50
+lapis,lapisC,lapisC14.jpg,17/04,12:45,0,branco,1,lapisC14.jpg,4.0 MB,SM-G9600,2021:04:17 12:45:20,4032x2268,4.3 mm,1/1422,2.4,50
+lapis,lapisC,lapisC15.jpg,17/04,12:45,0,branco,1,lapisC15.jpg,3.8 MB,SM-G9600,2021:04:17 12:45:22,4032x2268,4.3 mm,1/1265,2.4,50
+lapis,lapisC,lapisC16.jpg,17/04,12:55,0,preto,1,lapisC16.jpg,6.6 MB,SM-G9600,2021:04:17 12:55:25,4032x2268,4.3 mm,1/120,2.4,80
+lapis,lapisC,lapisC17.jpg,17/04,12:55,0,preto,1,lapisC17.jpg,6.6 MB,SM-G9600,2021:04:17 12:55:26,4032x2268,4.3 mm,1/120,2.4,80
+lapis,lapisC,lapisC18.jpg,17/04,12:55,0,preto,1,lapisC18.jpg,5.6 MB,SM-G9600,2021:04:17 12:55:26,4032x2268,4.3 mm,1/120,2.4,80
+lapis,lapisC,lapisC19.jpg,18/04,18:07,1,azul,0,lapisC19.jpg,3.7 MB,SM-G9600,2021:04:18 18:07:31,4032x2268,4.3 mm,1/10,1.5,320
+lapis,lapisC,lapisC2.jpg,17/04,11:57,1,azul,1,lapisC2.jpg,5.0 MB,SM-G9600,2021:04:17 11:56:21,4032x2268,4.3 mm,1/19,1.5,250
+lapis,lapisC,lapisC20.jpg,18/04,18:07,1,azul,0,lapisC20.jpg,3.0 MB,SM-G9600,2021:04:18 18:07:34,4032x2268,4.3 mm,1/10,1.5,320
+lapis,lapisC,lapisC21.jpg,18/04,18:07,1,azul,0,lapisC21.jpg,3.8 MB,SM-G9600,2021:04:18 18:07:37,4032x2268,4.3 mm,1/10,1.5,320
+lapis,lapisC,lapisC22.jpg,18/04,18:18,1,branco,0,lapisC22.jpg,2.4 MB,SM-G9600,2021:04:18 18:17:58,4032x2268,4.3 mm,1/40,1.5,320
+lapis,lapisC,lapisC23.jpg,18/04,18:18,1,branco,0,lapisC23.jpg,2.7 MB,SM-G9600,2021:04:18 18:17:59,4032x2268,4.3 mm,1/40,1.5,320
+lapis,lapisC,lapisC24.jpg,18/04,18:18,1,branco,0,lapisC24.jpg,2.7 MB,SM-G9600,2021:04:18 18:18:01,4032x2268,4.3 mm,1/40,1.5,320
+lapis,lapisC,lapisC25.jpg,18/04,18:23,1,preto,0,lapisC25.jpg,4.1 MB,SM-G9600,2021:04:18 18:23:44,4032x2268,4.3 mm,1/10,1.5,500
+lapis,lapisC,lapisC26.jpg,18/04,18:23,1,preto,0,lapisC26.jpg,4.1 MB,SM-G9600,2021:04:18 18:23:46,4032x2268,4.3 mm,1/10,1.5,500
+lapis,lapisC,lapisC27.jpg,18/04,18:23,1,preto,0,lapisC27.jpg,4.0 MB,SM-G9600,2021:04:18 18:23:48,4032x2268,4.3 mm,1/10,1.5,640
+lapis,lapisC,lapisC28.jpg,18/04,18:39,0,azul,0,lapisC28.jpg,3.5 MB,SM-G9600,2021:04:18 18:38:55,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisC,lapisC29.jpg,18/04,18:39,0,azul,0,lapisC29.jpg,3.1 MB,SM-G9600,2021:04:18 18:38:57,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisC,lapisC3.jpg,17/04,11:57,1,azul,1,lapisC3.jpg,4.6 MB,SM-G9600,2021:04:17 11:56:17,4032x2268,4.3 mm,1/19,1.5,250
+lapis,lapisC,lapisC30.jpg,18/04,18:39,0,azul,0,lapisC30.jpg,2.7 MB,SM-G9600,2021:04:18 18:38:59,4032x2268,4.3 mm,1/10,1.5,1000
+lapis,lapisC,lapisC31.jpg,18/04,18:43,0,branco,0,lapisC31.jpg,2.1 MB,SM-G9600,2021:04:18 18:43:31,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisC,lapisC32.jpg,18/04,18:43,0,branco,0,lapisC32.jpg,2.6 MB,SM-G9600,2021:04:18 18:43:32,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisC,lapisC33.jpg,18/04,18:43,0,branco,0,lapisC33.jpg,2.5 MB,SM-G9600,2021:04:18 18:43:35,4032x2268,4.3 mm,1/13,1.5,250
+lapis,lapisC,lapisC34.jpg,18/04,18:47,0,preto,0,lapisC34.jpg,3.2 MB,SM-G9600,2021:04:18 18:47:46,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisC,lapisC36.jpg,18/04,18:47,0,preto,0,lapisC35.jpg,3.4 MB,SM-G9600,2021:04:18 18:47:48,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisC,lapisC36.jpg,18/04,18:47,0,preto,0,lapisC36.jpg,3.1 MB,SM-G9600,2021:04:18 18:47:51,4032x2268,4.3 mm,1/6,1.5,1250
+lapis,lapisC,lapisC4.jpg,17/04,12:09,1,branco,1,lapisC4.jpg,2.5 MB,SM-G9600,2021:04:17 12:08:57,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisC,lapisC5.jpg,17/04,12:09,1,branco,1,lapisC5.jpg,2.6 MB,SM-G9600,2021:04:17 12:08:58,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisC,lapisC6.jpg,17/04,12:09,1,branco,1,lapisC6.jpg,3.1 MB,SM-G9600,2021:04:17 12:08:59,4032x2268,4.3 mm,1/60,2.4,250
+lapis,lapisC,lapisC7.jpg,17/04,12:19,1,preto,1,lapisC7.jpg,3.8 MB,SM-G9600,2021:04:17 12:19:06,4032x2268,4.3 mm,1/14,1.5,250
+lapis,lapisC,lapisC8.jpg,17/04,12:19,1,preto,1,lapisC8.jpg,4.8 MB,SM-G9600,2021:04:17 12:19:08,4032x2268,4.3 mm,1/14,1.5,250
+lapis,lapisC,lapisC9.jpg,17/04,12:19,1,preto,1,lapisC9.jpg,4.5 MB,SM-G9600,2021:04:17 12:19:09,4032x2268,4.3 mm,1/14,1.5,250
+maça,maçaA,maçaA1.jpg,17/04,12:03,1,azul,1,macaA1.jpg,3.0 MB,SM-G9600,2021:04:17 12:03:02,4032x2268,4.3 mm,1/26,1.5,250
+maça,maçaA,maçaA10.jpg,17/04,12:42,0,azul,1,macaA10.jpg,5.0 MB,SM-G9600,2021:04:17 12:42:24,4032x2268,4.3 mm,1/209,2.4,50
+maça,maçaA,maçaA11.jpg,17/04,12:42,0,azul,1,macaA11.jpg,4.9 MB,SM-G9600,2021:04:17 12:42:25,4032x2268,4.3 mm,1/198,2.4,50
+maça,maçaA,maçaA12.jpg,17/04,12:42,0,azul,1,macaA12.jpg,4.2 MB,SM-G9600,2021:04:17 12:42:25,4032x2268,4.3 mm,1/198,2.4,50
+maça,maçaA,maçaA13.jpg,17/04,12:50,0,branco,1,macaA13.jpg,2.6 MB,SM-G9600,2021:04:17 12:49:59,4032x2268,4.3 mm,1/1079,2.4,50
+maça,maçaA,maçaA14.jpg,17/04,12:50,0,branco,1,macaA14.jpg,2.5 MB,SM-G9600,2021:04:17 12:49:59,4032x2268,4.3 mm,1/1079,2.4,50
+maça,maçaA,maçaA15.jpg,17/04,12:50,0,branco,1,macaA15.jpg,2.5 MB,SM-G9600,2021:04:17 12:50:00,4032x2268,4.3 mm,1/1079,2.4,50
+maça,maçaA,maçaA16.jpg,17/04,12:59,0,preto,1,macaA16.jpg,3.4 MB,SM-G9600,2021:04:17 12:58:25,4032x2268,4.3 mm,1/228,2.4,50
+maça,maçaA,maçaA17.jpg,17/04,12:59,0,preto,1,macaA17.jpg,3.4 MB,SM-G9600,2021:04:17 12:58:25,4032x2268,4.3 mm,1/228,2.4,50
+maça,maçaA,maçaA18.jpg,17/04,12:59,0,preto,1,macaA18.jpg,3.4 MB,SM-G9600,2021:04:17 12:58:26,4032x2268,4.3 mm,1/228,2.4,50
+maça,maçaA,maçaA19.jpg,18/04,18:11,1,azul,0,macaA19.jpg,2.4 MB,SM-G9600,2021:04:18 18:10:47,4032x2268,4.3 mm,1/11,1.5,250
+maça,maçaA,maçaA2.jpg,17/04,12:03,1,azul,1,macaA2.jpg,2.7 MB,SM-G9600,2021:04:17 12:03:04,4032x2268,4.3 mm,1/26,1.5,250
+maça,maçaA,maçaA20.jpg,18/04,18:11,1,azul,0,macaA20.jpg,2.4 MB,SM-G9600,2021:04:18 18:10:43,4032x2268,4.3 mm,1/11,1.5,250
+maça,maçaA,maçaA21.jpg,18/04,18:11,1,azul,0,macaA21.jpg,2.4 MB,SM-G9600,2021:04:18 18:10:45,4032x2268,4.3 mm,1/11,1.5,250
+maça,maçaA,maçaA22.jpg,18/04,18:21,1,branco,0,macaA22.jpg,2.0 MB,SM-G9600,2021:04:18 18:20:20,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaA,maçaA23.jpg,18/04,18:21,1,branco,0,macaA23.jpg,2032 kB,SM-G9600,2021:04:18 18:20:21,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaA,maçaA24.jpg,18/04,18:21,1,branco,0,macaA24.jpg,2.0 MB,SM-G9600,2021:04:18 18:20:22,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaA,maçaA25.jpg,18/04,18:26,1,preto,0,macaA25.jpg,2.2 MB,SM-G9600,2021:04:18 18:26:07,4032x2268,4.3 mm,1/10,1.5,320
+maça,maçaA,maçaA26.jpg,18/04,18:26,1,preto,0,macaA26.jpg,2.1 MB,SM-G9600,2021:04:18 18:26:08,4032x2268,4.3 mm,1/10,1.5,320
+maça,maçaA,maçaA27.jpg,18/04,18:26,1,preto,0,macaA27.jpg,2.1 MB,SM-G9600,2021:04:18 18:26:10,4032x2268,4.3 mm,1/10,1.5,320
+maça,maçaA,maçaA28.jpg,18/04,18:42,0,azul,0,macaA28.jpg,2.1 MB,SM-G9600,2021:04:18 18:41:54,4032x2268,4.3 mm,1/10,1.5,1000
+maça,maçaA,maçaA29.jpg,18/04,18:42,0,azul,0,macaA29.jpg,2.1 MB,SM-G9600,2021:04:18 18:41:55,4032x2268,4.3 mm,1/10,1.5,1000
+maça,maçaA,maçaA3.jpg,17/04,12:03,1,azul,1,macaA3.jpg,3.0 MB,SM-G9600,2021:04:17 12:03:05,4032x2268,4.3 mm,1/26,1.5,250
+maça,maçaA,maçaA30.jpg,18/04,18:42,0,azul,0,macaA30.jpg,2.1 MB,SM-G9600,2021:04:18 18:41:58,4032x2268,4.3 mm,1/10,1.5,1250
+maça,maçaA,maçaA31.jpg,18/04,18:46,0,branco,0,macaA31.jpg,1972 kB,SM-G9600,2021:04:18 18:46:06,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaA,maçaA32.jpg,18/04,18:46,0,branco,0,macaA32.jpg,1999 kB,SM-G9600,2021:04:18 18:46:07,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaA,maçaA33.jpg,18/04,18:46,0,branco,0,macaA33.jpg,2019 kB,SM-G9600,2021:04:18 18:46:09,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaA,maçaA34.jpg,18/04,18:51,0,preto,0,macaA34.jpg,2.4 MB,SM-G9600,2021:04:18 18:51:10,4032x2268,4.3 mm,1/9,1.5,1250
+maça,maçaA,maçaA36.jpg,18/04,18:51,0,preto,0,macaA35.jpg,2.4 MB,SM-G9600,2021:04:18 18:51:11,4032x2268,4.3 mm,1/8,1.5,1250
+maça,maçaA,maçaA36.jpg,18/04,18:51,0,preto,0,macaA36.jpg,2.5 MB,SM-G9600,2021:04:18 18:51:13,4032x2268,4.3 mm,1/9,1.5,1250
+maça,maçaA,maçaA4.jpg,17/04,12:15,1,branco,1,macaA4.jpg,2.2 MB,SM-G9600,2021:04:17 12:13:45,4032x2268,4.3 mm,1/50,2.4,250
+maça,maçaA,maçaA5.jpg,17/04,12:15,1,branco,1,macaA5.jpg,1740 kB,SM-G9600,2021:04:17 12:13:53,4032x2268,4.3 mm,1/60,1.5,125
+maça,maçaA,maçaA6.jpg,17/04,12:15,1,branco,1,macaA6.jpg,1721 kB,SM-G9600,2021:04:17 12:13:52,4032x2268,4.3 mm,1/60,1.5,125
+maça,maçaA,maçaA7.jpg,17/04,12:23,1,preto,1,macaA7.jpg,2.3 MB,SM-G9600,2021:04:17 12:22:57,4032x2268,4.3 mm,1/27,1.5,250
+maça,maçaA,maçaA8.jpg,17/04,12:23,1,preto,1,macaA8.jpg,2.2 MB,SM-G9600,2021:04:17 12:23:00,4032x2268,4.3 mm,1/26,1.5,250
+maça,maçaA,maçaA9.jpg,17/04,12:23,1,preto,1,macaA9.jpg,2.5 MB,SM-G9600,2021:04:17 12:23:02,4032x2268,4.3 mm,1/26,1.5,250
+maça,maçaB,maçaB1.jpg,17/04,12:03,1,azul,1,macaB1.jpg,2.8 MB,SM-G9600,2021:04:17 12:03:22,4032x2268,4.3 mm,1/32,1.5,250
+maça,maçaB,maçaB10.jpg,17/04,12:42,0,azul,1,macaB10.jpg,4.0 MB,SM-G9600,2021:04:17 12:42:14,4032x2268,4.3 mm,1/200,2.4,50
+maça,maçaB,maçaB11.jpg,17/04,12:42,0,azul,1,macaB11.jpg,3.7 MB,SM-G9600,2021:04:17 12:42:15,4032x2268,4.3 mm,1/200,2.4,50
+maça,maçaB,maçaB12.jpg,17/04,12:42,0,azul,1,macaB12.jpg,3.5 MB,SM-G9600,2021:04:17 12:42:15,4032x2268,4.3 mm,1/200,2.4,50
+maça,maçaB,maçaB13.jpg,17/04,12:50,0,branco,1,macaB13.jpg,2.2 MB,SM-G9600,2021:04:17 12:49:43,4032x2268,4.3 mm,1/1369,2.4,50
+maça,maçaB,maçaB14.jpg,17/04,12:50,0,branco,1,macaB14.jpg,2.2 MB,SM-G9600,2021:04:17 12:49:44,4032x2268,4.3 mm,1/1369,2.4,50
+maça,maçaB,maçaB15.jpg,17/04,12:50,0,branco,1,macaB15.jpg,2.3 MB,SM-G9600,2021:04:17 12:49:45,4032x2268,4.3 mm,1/1369,2.4,50
+maça,maçaB,maçaB16.jpg,17/04,12:59,0,preto,1,macaB16.jpg,3.3 MB,SM-G9600,2021:04:17 12:58:14,4032x2268,4.3 mm,1/145,2.4,50
+maça,maçaB,maçaB17.jpg,17/04,12:59,0,preto,1,macaB17.jpg,3.2 MB,SM-G9600,2021:04:17 12:58:14,4032x2268,4.3 mm,1/145,2.4,50
+maça,maçaB,maçaB18.jpg,17/04,12:59,0,preto,1,macaB18.jpg,3.4 MB,SM-G9600,2021:04:17 12:58:15,4032x2268,4.3 mm,1/145,2.4,50
+maça,maçaB,maçaB19.jpg,18/04,18:11,1,azul,0,macaB19.jpg,2.1 MB,SM-G9600,2021:04:18 18:10:29,4032x2268,4.3 mm,1/12,1.5,250
+maça,maçaB,maçaB2.jpg,17/04,12:03,1,azul,1,macaB2.jpg,2.8 MB,SM-G9600,2021:04:17 12:03:23,4032x2268,4.3 mm,1/32,1.5,250
+maça,maçaB,maçaB20.jpg,18/04,18:11,1,azul,0,macaB20.jpg,2.1 MB,SM-G9600,2021:04:18 18:10:31,4032x2268,4.3 mm,1/12,1.5,250
+maça,maçaB,maçaB21.jpg,18/04,18:11,1,azul,0,macaB21.jpg,2.2 MB,SM-G9600,2021:04:18 18:10:33,4032x2268,4.3 mm,1/12,1.5,250
+maça,maçaB,maçaB22.jpg,18/04,18:21,1,branco,0,macaB22.jpg,1836 kB,SM-G9600,2021:04:18 18:20:06,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaB,maçaB23.jpg,18/04,18:21,1,branco,0,macaB23.jpg,1895 kB,SM-G9600,2021:04:18 18:20:08,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaB,maçaB24.jpg,18/04,18:21,1,branco,0,macaB24.jpg,2012 kB,SM-G9600,2021:04:18 18:20:09,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaB,maçaB25.jpg,18/04,18:26,1,preto,0,macaB25.jpg,2.0 MB,SM-G9600,2021:04:18 18:25:55,4032x2268,4.3 mm,1/11,1.5,250
+maça,maçaB,maçaB26.jpg,18/04,18:26,1,preto,0,macaB26.jpg,2.0 MB,SM-G9600,2021:04:18 18:25:57,4032x2268,4.3 mm,1/11,1.5,250
+maça,maçaB,maçaB27.jpg,18/04,18:26,1,preto,0,macaB27.jpg,1947 kB,SM-G9600,2021:04:18 18:25:59,4032x2268,4.3 mm,1/11,1.5,250
+maça,maçaB,maçaB28.jpg,18/04,18:42,0,azul,0,macaB28.jpg,1874 kB,SM-G9600,2021:04:18 18:41:41,4032x2268,4.3 mm,1/10,1.5,800
+maça,maçaB,maçaB29.jpg,18/04,18:42,0,azul,0,macaB29.jpg,1912 kB,SM-G9600,2021:04:18 18:41:43,4032x2268,4.3 mm,1/10,1.5,800
+maça,maçaB,maçaB3.jpg,17/04,12:03,1,azul,1,macaB3.jpg,2.8 MB,SM-G9600,2021:04:17 12:03:25,4032x2268,4.3 mm,1/32,1.5,250
+maça,maçaB,maçaB30.jpg,18/04,18:42,0,azul,0,macaB30.jpg,1910 kB,SM-G9600,2021:04:18 18:41:44,4032x2268,4.3 mm,1/10,1.5,800
+maça,maçaB,maçaB31.jpg,18/04,18:46,0,branco,0,macaB31.jpg,2.2 MB,SM-G9600,2021:04:18 18:45:48,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaB,maçaB32.jpg,18/04,18:46,0,branco,0,macaB32.jpg,1966 kB,SM-G9600,2021:04:18 18:45:50,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaB,maçaB33.jpg,18/04,18:46,0,branco,0,macaB33.jpg,1915 kB,SM-G9600,2021:04:18 18:45:52,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaB,maçaB34.jpg,18/04,18:51,0,preto,0,macaB34.jpg,2.1 MB,SM-G9600,2021:04:18 18:50:47,4032x2268,4.3 mm,1/10,1.5,1250
+maça,maçaB,maçaB36.jpg,18/04,18:51,0,preto,0,macaB35.jpg,2.2 MB,SM-G9600,2021:04:18 18:50:49,4032x2268,4.3 mm,1/10,1.5,1250
+maça,maçaB,maçaB36.jpg,18/04,18:51,0,preto,0,macaB36.jpg,2.2 MB,SM-G9600,2021:04:18 18:50:52,4032x2268,4.3 mm,1/10,1.5,1250
+maça,maçaB,maçaB4.jpg,17/04,12:15,1,branco,1,macaB4.jpg,1931 kB,SM-G9600,2021:04:17 12:15:02,4032x2268,4.3 mm,1/50,2.4,250
+maça,maçaB,maçaB5.jpg,17/04,12:15,1,branco,1,macaB5.jpg,1905 kB,SM-G9600,2021:04:17 12:15:03,4032x2268,4.3 mm,1/50,2.4,250
+maça,maçaB,maçaB6.jpg,17/04,12:15,1,branco,1,macaB6.jpg,2.1 MB,SM-G9600,2021:04:17 12:15:04,4032x2268,4.3 mm,1/50,2.4,250
+maça,maçaB,maçaB7.jpg,17/04,12:23,1,preto,1,macaB7.jpg,2.7 MB,SM-G9600,2021:04:17 12:23:13,4032x2268,4.3 mm,1/21,1.5,250
+maça,maçaB,maçaB8.jpg,17/04,12:23,1,preto,1,macaB8.jpg,2.6 MB,SM-G9600,2021:04:17 12:23:17,4032x2268,4.3 mm,1/19,1.5,250
+maça,maçaB,maçaB9.jpg,17/04,12:23,1,preto,1,macaB9.jpg,2.8 MB,SM-G9600,2021:04:17 12:23:15,4032x2268,4.3 mm,1/19,1.5,250
+maça,maçaC,maçaC1.jpg,17/04,12:03,1,azul,1,macaC1.jpg,3.0 MB,SM-G9600,2021:04:17 12:03:39,4032x2268,4.3 mm,1/27,1.5,250
+maça,maçaC,maçaC10.jpg,17/04,12:42,0,azul,1,macaC10.jpg,3.7 MB,SM-G9600,2021:04:17 12:42:01,4032x2268,4.3 mm,1/280,2.4,50
+maça,maçaC,maçaC11.jpg,17/04,12:42,0,azul,1,macaC11.jpg,3.9 MB,SM-G9600,2021:04:17 12:42:00,4032x2268,4.3 mm,1/280,2.4,50
+maça,maçaC,maçaC12.jpg,17/04,12:42,0,azul,1,macaC12.jpg,3.7 MB,SM-G9600,2021:04:17 12:42:01,4032x2268,4.3 mm,1/280,2.4,50
+maça,maçaC,maçaC13.jpg,17/04,12:50,0,branco,1,macaC13.jpg,2.3 MB,SM-G9600,2021:04:17 12:49:29,4032x2268,4.3 mm,1/1529,2.4,50
+maça,maçaC,maçaC14.jpg,17/04,12:50,0,branco,1,macaC14.jpg,2.3 MB,SM-G9600,2021:04:17 12:49:29,4032x2268,4.3 mm,1/1529,2.4,50
+maça,maçaC,maçaC15.jpg,17/04,12:50,0,branco,1,macaC15.jpg,2.3 MB,SM-G9600,2021:04:17 12:49:30,4032x2268,4.3 mm,1/1529,2.4,50
+maça,maçaC,maçaC16.jpg,17/04,12:59,0,preto,1,macaC16.jpg,3.4 MB,SM-G9600,2021:04:17 12:57:56,4032x2268,4.3 mm,1/357,2.4,50
+maça,maçaC,maçaC17.jpg,17/04,12:59,0,preto,1,macaC17.jpg,3.5 MB,SM-G9600,2021:04:17 12:57:57,4032x2268,4.3 mm,1/357,2.4,50
+maça,maçaC,maçaC18.jpg,17/04,12:59,0,preto,1,macaC18.jpg,3.4 MB,SM-G9600,2021:04:17 12:57:58,4032x2268,4.3 mm,1/357,2.4,50
+maça,maçaC,maçaC19.jpg,18/04,18:11,1,azul,0,macaC19.jpg,2.5 MB,SM-G9600,2021:04:18 18:10:15,4032x2268,4.3 mm,1/12,1.5,250
+maça,maçaC,maçaC2.jpg,17/04,12:03,1,azul,1,macaC2.jpg,3.0 MB,SM-G9600,2021:04:17 12:03:41,4032x2268,4.3 mm,1/27,1.5,250
+maça,maçaC,maçaC20.jpg,18/04,18:11,1,azul,0,macaC20.jpg,2.5 MB,SM-G9600,2021:04:18 18:10:16,4032x2268,4.3 mm,1/12,1.5,250
+maça,maçaC,maçaC21.jpg,18/04,18:11,1,azul,0,macaC21.jpg,2.5 MB,SM-G9600,2021:04:18 18:10:17,4032x2268,4.3 mm,1/12,1.5,250
+maça,maçaC,maçaC22.jpg,18/04,18:21,1,branco,0,macaC22.jpg,2023 kB,SM-G9600,2021:04:18 18:19:54,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaC,maçaC23.jpg,18/04,18:21,1,branco,0,macaC23.jpg,2.0 MB,SM-G9600,2021:04:18 18:19:55,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaC,maçaC24.jpg,18/04,18:21,1,branco,0,macaC24.jpg,1876 kB,SM-G9600,2021:04:18 18:19:57,4032x2268,4.3 mm,1/30,1.5,250
+maça,maçaC,maçaC25.jpg,18/04,18:26,1,preto,0,macaC25.jpg,3.0 MB,SM-G9600,2021:04:18 18:25:44,4032x2268,4.3 mm,1/40,1.5,640
+maça,maçaC,maçaC26.jpg,18/04,18:26,1,preto,0,macaC26.jpg,2.1 MB,SM-G9600,2021:04:18 18:25:45,4032x2268,4.3 mm,1/17,1.5,250
+maça,maçaC,maçaC27.jpg,18/04,18:26,1,preto,0,macaC27.jpg,2.1 MB,SM-G9600,2021:04:18 18:25:47,4032x2268,4.3 mm,1/17,1.5,250
+maça,maçaC,maçaC28.jpg,18/04,18:42,0,azul,0,macaC28.jpg,3.0 MB,SM-G9600,2021:04:18 18:41:29,4032x2268,4.3 mm,1/10,1.5,800
+maça,maçaC,maçaC29.jpg,18/04,18:42,0,azul,0,macaC29.jpg,3.1 MB,SM-G9600,2021:04:18 18:41:31,4032x2268,4.3 mm,1/10,1.5,800
+maça,maçaC,maçaC3.jpg,17/04,12:03,1,azul,1,macaC3.jpg,2.9 MB,SM-G9600,2021:04:17 12:03:42,4032x2268,4.3 mm,1/27,1.5,250
+maça,maçaC,maçaC30.jpg,18/04,18:42,0,azul,0,macaC30.jpg,3.1 MB,SM-G9600,2021:04:18 18:41:32,4032x2268,4.3 mm,1/10,1.5,800
+maça,maçaC,maçaC31.jpg,18/04,18:46,0,branco,0,macaC31.jpg,2.1 MB,SM-G9600,2021:04:18 18:45:33,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaC,maçaC32.jpg,18/04,18:46,0,branco,0,macaC32.jpg,2.1 MB,SM-G9600,2021:04:18 18:45:29,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaC,maçaC33.jpg,18/04,18:46,0,branco,0,macaC33.jpg,2.1 MB,SM-G9600,2021:04:18 18:45:31,4032x2268,4.3 mm,1/10,1.5,250
+maça,maçaC,maçaC34.jpg,18/04,18:51,0,preto,0,macaC34.jpg,2.4 MB,SM-G9600,2021:04:18 18:50:26,4032x2268,4.3 mm,1/9,1.5,1250
+maça,maçaC,maçaC36.jpg,18/04,18:51,0,preto,0,macaC35.jpg,2.9 MB,SM-G9600,2021:04:18 18:50:29,4032x2268,4.3 mm,1/8,1.5,1250
+maça,maçaC,maçaC36.jpg,18/04,18:51,0,preto,0,macaC36.jpg,2.3 MB,SM-G9600,2021:04:18 18:50:31,4032x2268,4.3 mm,1/9,1.5,1250
+maça,maçaC,maçaC4.jpg,17/04,12:15,1,branco,1,macaC4.jpg,2.2 MB,SM-G9600,2021:04:17 12:15:29,4032x2268,4.3 mm,1/60,2.4,320
+maça,maçaC,maçaC5.jpg,17/04,12:15,1,branco,1,macaC5.jpg,2.1 MB,SM-G9600,2021:04:17 12:15:29,4032x2268,4.3 mm,1/60,2.4,320
+maça,maçaC,maçaC6.jpg,17/04,12:15,1,branco,1,macaC6.jpg,2.3 MB,SM-G9600,2021:04:17 12:15:30,4032x2268,4.3 mm,1/60,2.4,320
+maça,maçaC,maçaC7.jpg,17/04,12:23,1,preto,1,macaC7.jpg,2015 kB,SM-G9600,2021:04:17 12:23:25,4032x2268,4.3 mm,1/41,1.5,250
+maça,maçaC,maçaC8.jpg,17/04,12:23,1,preto,1,macaC8.jpg,1990 kB,SM-G9600,2021:04:17 12:23:27,4032x2268,4.3 mm,1/41,1.5,250
+maça,maçaC,maçaC9.jpg,17/04,12:23,1,preto,1,macaC9.jpg,2032 kB,SM-G9600,2021:04:17 12:23:28,4032x2268,4.3 mm,1/41,1.5,250
+tesoura,tesouraA,tesouraA1.jpg,19/04/2021,23:03,1,azul,0,tesouraA1.jpg,2.6 MB,iPhone 8,2021:04:19 23:03:12,3024x4032,4.0 mm,1/15,1.8,64
+tesoura,tesouraA,tesouraA10.jpg,19/04/2021,23:23,0,azul,0,tesouraA10.jpg,1822 kB,iPhone 8,2021:04:19 23:23:38,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraA,tesouraA11.jpg,19/04/2021,23:23,0,azul,0,tesouraA11.jpg,2.2 MB,iPhone 8,2021:04:19 23:23:39,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraA,tesouraA12.jpg,19/04/2021,23:23,0,azul,0,tesouraA12.jpg,2.0 MB,iPhone 8,2021:04:19 23:23:41,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraA,tesouraA13.jpg,19/04/2021,23:26,0,branco,0,tesouraA13.jpg,1354 kB,iPhone 8,2021:04:19 23:26:14,3024x4032,4.0 mm,1/16,1.8,80
+tesoura,tesouraA,tesouraA14.jpg,19/04/2021,23:26,0,branco,0,tesouraA14.jpg,1257 kB,iPhone 8,2021:04:19 23:26:16,3024x4032,4.0 mm,1/16,1.8,80
+tesoura,tesouraA,tesouraA15.jpg,19/04/2021,23:26,0,branco,0,tesouraA15.jpg,1293 kB,iPhone 8,2021:04:19 23:26:18,3024x4032,4.0 mm,1/16,1.8,80
+tesoura,tesouraA,tesouraA16.jpg,19/04/2021,23:34,0,preto,0,tesouraA16.jpg,2045 kB,iPhone 8,2021:04:19 23:34:26,4032x3024,4.0 mm,1/4,1.8,125
+tesoura,tesouraA,tesouraA17.jpg,19/04/2021,23:34,0,preto,0,tesouraA17.jpg,2.1 MB,iPhone 8,2021:04:19 23:34:39,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraA,tesouraA18.jpg,19/04/2021,23:34,0,preto,0,tesouraA18.jpg,1996 kB,iPhone 8,2021:04:19 23:34:47,4032x3024,4.0 mm,1/4,1.8,125
+tesoura,tesouraA,tesouraA19.jpg,20/04/2021,09:56,1,azul,1,tesouraA19.jpg,4.6 MB,iPhone 8,2021:04:20 09:56:32,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraA,tesouraA2.jpg,19/04/2021,23:03,1,azul,0,tesouraA2.jpg,2.9 MB,iPhone 8,2021:04:19 23:03:15,3024x4032,4.0 mm,1/15,1.8,64
+tesoura,tesouraA,tesouraA20.jpg,20/04/2021,09:56,1,azul,1,tesouraA20.jpg,4.7 MB,iPhone 8,2021:04:20 09:56:36,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraA,tesouraA21.jpg,20/04/2021,09:56,1,azul,1,tesouraA21.jpg,4.3 MB,iPhone 8,2021:04:20 09:56:41,4032x3024,4.0 mm,1/40,1.8,32
+tesoura,tesouraA,tesouraA22.jpg,20/04/2021,10:00,1,branco,1,tesouraA22.jpg,2.8 MB,iPhone 8,2021:04:20 10:00:12,4032x3024,4.0 mm,1/120,1.8,20
+tesoura,tesouraA,tesouraA23.jpg,20/04/2021,10:00,1,branco,1,tesouraA23.jpg,2.8 MB,iPhone 8,2021:04:20 10:00:18,4032x3024,4.0 mm,1/120,1.8,25
+tesoura,tesouraA,tesouraA24.jpg,20/04/2021,10:00,1,branco,1,tesouraA24.jpg,2.6 MB,iPhone 8,2021:04:20 10:00:24,4032x3024,4.0 mm,1/120,1.8,25
+tesoura,tesouraA,tesouraA25.jpg,20/04/2021,10:04,1,preto,1,tesouraA25.jpg,3.9 MB,iPhone 8,2021:04:20 10:04:03,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraA,tesouraA26.jpg,20/04/2021,10:04,1,preto,1,tesouraA26.jpg,3.6 MB,iPhone 8,2021:04:20 10:04:08,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraA,tesouraA27.jpg,20/04/2021,10:04,1,preto,1,tesouraA27.jpg,4.4 MB,iPhone 8,2021:04:20 10:04:24,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraA,tesouraA28.jpg,20/04/2021,10:13,0,azul,1,tesouraA28.jpg,4.6 MB,iPhone 8,2021:04:20 10:13:39,4032x3024,4.0 mm,1/120,1.8,64
+tesoura,tesouraA,tesouraA29.jpg,20/04/2021,10:13,0,azul,1,tesouraA29.jpg,4.6 MB,iPhone 8,2021:04:20 10:13:45,4032x3024,4.0 mm,1/120,1.8,64
+tesoura,tesouraA,tesouraA3.jpg,19/04/2021,23:03,1,azul,0,tesouraA3.jpg,3.0 MB,iPhone 8,2021:04:19 23:03:20,3024x4032,4.0 mm,1/15,1.8,64
+tesoura,tesouraA,tesouraA30.jpg,20/04/2021,10:13,0,azul,1,tesouraA30.jpg,4.6 MB,iPhone 8,2021:04:20 10:13:52,4032x3024,4.0 mm,1/40,1.8,25
+tesoura,tesouraA,tesouraA31.jpg,20/04/2021,10:17,0,branco,1,tesouraA31.jpg,2.5 MB,iPhone 8,2021:04:20 10:17:15,4032x3024,4.0 mm,1/249,1.8,20
+tesoura,tesouraA,tesouraA32.jpg,20/04/2021,10:17,0,branco,1,tesouraA32.jpg,2.9 MB,iPhone 8,2021:04:20 10:17:26,4032x3024,4.0 mm,1/261,1.8,20
+tesoura,tesouraA,tesouraA33.jpg,20/04/2021,10:17,0,branco,1,tesouraA33.jpg,2.9 MB,iPhone 8,2021:04:20 10:17:33,4032x3024,4.0 mm,1/246,1.8,20
+tesoura,tesouraA,tesouraA34.jpg,20/04/2021,10:21,0,preto,1,tesouraA34.jpg,3.9 MB,iPhone 8,2021:04:20 10:21:39,3024x4032,4.0 mm,1/30,1.8,32
+tesoura,tesouraA,tesouraA35.jpg,20/04/2021,10:21,0,preto,1,tesouraA35.jpg,4.0 MB,iPhone 8,2021:04:20 10:21:48,3024x4032,4.0 mm,1/120,1.8,50
+tesoura,tesouraA,tesouraA36.jpg,20/04/2021,10:21,0,preto,1,tesouraA36.jpg,4.4 MB,iPhone 8,2021:04:20 10:21:53,3024x4032,4.0 mm,1/30,1.8,32
+tesoura,tesouraA,tesouraA4.jpg,19/04/2021,23:11,1,branco,0,tesouraA4.jpg,1558 kB,iPhone 8,2021:04:19 23:11:20,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraA,tesouraA5.jpg,19/04/2021,23:11,1,branco,0,tesouraA5.jpg,1295 kB,iPhone 8,2021:04:19 23:11:24,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraA,tesouraA6.jpg,19/04/2021,23:11,1,branco,0,tesouraA6.jpg,1413 kB,iPhone 8,2021:04:19 23:11:28,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraA,tesouraA7.jpg,19/04/2021,23:13,1,preto,0,tesouraA7.jpg,2.8 MB,iPhone 8,2021:04:19 23:13:37,4032x3024,4.0 mm,1/12,1.8,100
+tesoura,tesouraA,tesouraA8.jpg,19/04/2021,23:13,1,preto,0,tesouraA8.jpg,2.6 MB,iPhone 8,2021:04:19 23:13:38,4032x3024,4.0 mm,1/12,1.8,100
+tesoura,tesouraA,tesouraA9.jpg,19/04/2021,23:13,1,preto,0,tesouraA9.jpg,2.7 MB,iPhone 8,2021:04:19 23:13:41,4032x3024,4.0 mm,1/12,1.8,100
+tesoura,tesouraB,tesouraB1.jpg,19/04/2021,23:03,1,azul,0,tesouraB1.jpg,3.0 MB,iPhone 8,2021:04:19 23:03:38,3024x4032,4.0 mm,1/15,1.8,64
+tesoura,tesouraB,tesouraB10.jpg,19/04/2021,23:23,0,azul,0,tesouraB10.jpg,2040 kB,iPhone 8,2021:04:19 23:23:50,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraB,tesouraB11.jpg,19/04/2021,23:23,0,azul,0,tesouraB11.jpg,1784 kB,iPhone 8,2021:04:19 23:23:52,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraB,tesouraB12.jpg,19/04/2021,23:23,0,azul,0,tesouraB12.jpg,1781 kB,iPhone 8,2021:04:19 23:23:54,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraB,tesouraB13.jpg,19/04/2021,23:26,0,branco,0,tesouraB13.jpg,1385 kB,iPhone 8,2021:04:19 23:26:36,3024x4032,4.0 mm,1/16,1.8,80
+tesoura,tesouraB,tesouraB14.jpg,19/04/2021,23:26,0,branco,0,tesouraB14.jpg,1694 kB,iPhone 8,2021:04:19 23:26:38,3024x4032,4.0 mm,1/16,1.8,80
+tesoura,tesouraB,tesouraB15.jpg,19/04/2021,23:26,0,branco,0,tesouraB15.jpg,1240 kB,iPhone 8,2021:04:19 23:26:41,3024x4032,4.0 mm,1/16,1.8,80
+tesoura,tesouraB,tesouraB16.jpg,19/04/2021,23:34,0,preto,0,tesouraB16.jpg,1455 kB,iPhone 8,2021:04:19 23:34:55,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraB,tesouraB17.jpg,19/04/2021,23:34,0,preto,0,tesouraB17.jpg,1486 kB,iPhone 8,2021:04:19 23:34:56,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraB,tesouraB18.jpg,19/04/2021,23:35,0,preto,0,tesouraB18.jpg,2.5 MB,iPhone 8,2021:04:19 23:35:00,4032x3024,4.0 mm,1/4,1.8,125
+tesoura,tesouraB,tesouraB19.jpg,20/04/2021,09:56,1,azul,1,tesouraB19.jpg,4.0 MB,iPhone 8,2021:04:20 09:56:51,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraB,tesouraB2.jpg,19/04/2021,23:03,1,azul,0,tesouraB2.jpg,2.9 MB,iPhone 8,2021:04:19 23:03:43,3024x4032,4.0 mm,1/15,1.8,64
+tesoura,tesouraB,tesouraB20.jpg,20/04/2021,09:56,1,azul,1,tesouraB20.jpg,4.6 MB,iPhone 8,2021:04:20 09:57:00,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraB,tesouraB21.jpg,20/04/2021,09:57,1,azul,1,tesouraB21.jpg,4.5 MB,iPhone 8,2021:04:20 09:57:06,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraB,tesouraB22.jpg,20/04/2021,10:00,1,branco,1,tesouraB22.jpg,2.7 MB,iPhone 8,2021:04:20 10:00:33,4032x3024,4.0 mm,1/120,1.8,20
+tesoura,tesouraB,tesouraB23.jpg,20/04/2021,10:00,1,branco,1,tesouraB23.jpg,2.7 MB,iPhone 8,2021:04:20 10:00:37,4032x3024,4.0 mm,1/120,1.8,25
+tesoura,tesouraB,tesouraB24.jpg,20/04/2021,10:00,1,branco,1,tesouraB24.jpg,2.5 MB,iPhone 8,2021:04:20 10:00:42,4032x3024,4.0 mm,1/120,1.8,20
+tesoura,tesouraB,tesouraB25.jpg,20/04/2021,10:04,1,preto,1,tesouraB25.jpg,4.2 MB,iPhone 8,2021:04:20 10:04:35,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraB,tesouraB26.jpg,20/04/2021,10:04,1,preto,1,tesouraB26.jpg,4.0 MB,iPhone 8,2021:04:20 10:04:39,4032x3024,4.0 mm,1/15,1.8,80
+tesoura,tesouraB,tesouraB27.jpg,20/04/2021,10:04,1,preto,1,tesouraB27.jpg,3.3 MB,iPhone 8,2021:04:20 10:04:43,4032x3024,4.0 mm,1/15,1.8,80
+tesoura,tesouraB,tesouraB28.jpg,20/04/2021,10:13,0,azul,1,tesouraB28.jpg,4.2 MB,iPhone 8,2021:04:20 10:14:00,4032x3024,4.0 mm,1/40,1.8,20
+tesoura,tesouraB,tesouraB29.jpg,20/04/2021,10:14,0,azul,1,tesouraB29.jpg,4.3 MB,iPhone 8,2021:04:20 10:14:05,4032x3024,4.0 mm,1/40,1.8,25
+tesoura,tesouraB,tesouraB3.jpg,19/04/2021,23:03,1,azul,0,tesouraB3.jpg,2.8 MB,iPhone 8,2021:04:19 23:03:48,3024x4032,4.0 mm,1/15,1.8,64
+tesoura,tesouraB,tesouraB30.jpg,20/04/2021,10:14,0,azul,1,tesouraB30.jpg,4.7 MB,iPhone 8,2021:04:20 10:14:12,4032x3024,4.0 mm,1/40,1.8,25
+tesoura,tesouraB,tesouraB31.jpg,20/04/2021,10:17,0,branco,1,tesouraB31.jpg,2.6 MB,iPhone 8,2021:04:20 10:17:41,4032x3024,4.0 mm,1/286,1.8,20
+tesoura,tesouraB,tesouraB32.jpg,20/04/2021,10:17,0,branco,1,tesouraB32.jpg,2.9 MB,iPhone 8,2021:04:20 10:17:48,4032x3024,4.0 mm,1/262,1.8,20
+tesoura,tesouraB,tesouraB33.jpg,20/04/2021,10:17,0,branco,1,tesouraB33.jpg,2.7 MB,iPhone 8,2021:04:20 10:17:54,4032x3024,4.0 mm,1/277,1.8,20
+tesoura,tesouraB,tesouraB34.jpg,20/04/2021,10:22,0,preto,1,tesouraB34.jpg,4.2 MB,iPhone 8,2021:04:20 10:22:01,3024x4032,4.0 mm,1/30,1.8,25
+tesoura,tesouraB,tesouraB35.jpg,20/04/2021,10:22,0,preto,1,tesouraB35.jpg,3.9 MB,iPhone 8,2021:04:20 10:22:07,3024x4032,4.0 mm,1/120,1.8,64
+tesoura,tesouraB,tesouraB36.jpg,20/04/2021,10:22,0,preto,1,tesouraB36.jpg,4.1 MB,iPhone 8,2021:04:20 10:22:12,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraB,tesouraB4.jpg,19/04/2021,23:11,1,branco,0,tesouraB4.jpg,1475 kB,iPhone 8,2021:04:19 23:11:37,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraB,tesouraB5.jpg,19/04/2021,23:11,1,branco,0,tesouraB5.jpg,1391 kB,iPhone 8,2021:04:19 23:11:39,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraB,tesouraB6.jpg,19/04/2021,23:11,1,branco,0,tesouraB6.jpg,1399 kB,iPhone 8,2021:04:19 23:11:41,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraB,tesouraB7.jpg,19/04/2021,23:13,1,preto,0,tesouraB7.jpg,2.8 MB,iPhone 8,2021:04:19 23:13:49,4032x3024,4.0 mm,1/12,1.8,100
+tesoura,tesouraB,tesouraB8.jpg,19/04/2021,23:13,1,preto,0,tesouraB8.jpg,3.0 MB,iPhone 8,2021:04:19 23:13:52,4032x3024,4.0 mm,1/13,1.8,100
+tesoura,tesouraB,tesouraB9.jpg,19/04/2021,23:13,1,preto,0,tesouraB9.jpg,2.7 MB,iPhone 8,2021:04:19 23:13:54,4032x3024,4.0 mm,1/12,1.8,100
+tesoura,tesouraC,tesouraC1.jpg,19/04/2021,23:05,1,azul,0,tesouraC1.jpg,2.2 MB,iPhone 8,2021:04:19 23:05:18,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraC,tesouraC10.jpg,19/04/2021,23:24,0,azul,0,tesouraC10.jpg,1884 kB,iPhone 8,2021:04:19 23:24:11,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraC,tesouraC11.jpg,19/04/2021,23:24,0,azul,0,tesouraC11.jpg,1872 kB,iPhone 8,2021:04:19 23:24:13,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraC,tesouraC12.jpg,19/04/2021,23:24,0,azul,0,tesouraC12.jpg,2.2 MB,iPhone 8,2021:04:19 23:24:16,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraC,tesouraC14.jpg,19/04/2021,23:26,0,branco,0,tesouraC14.jpg,1089 kB,iPhone 8,2021:04:19 23:26:54,3024x4032,4.0 mm,1/16,1.8,100
+tesoura,tesouraC,tesouraC15.jpg,19/04/2021,23:26,0,branco,0,tesouraC15.jpg,1203 kB,iPhone 8,2021:04:19 23:26:56,3024x4032,4.0 mm,1/16,1.8,100
+tesoura,tesouraC,tesouraC16.jpg,19/04/2021,23:35,0,preto,0,tesouraC16.jpg,1684 kB,iPhone 8,2021:04:19 23:35:08,4032x3024,4.0 mm,1/4,1.8,125
+tesoura,tesouraC,tesouraC17.jpg,19/04/2021,23:35,0,preto,0,tesouraC17.jpg,1370 kB,iPhone 8,2021:04:19 23:35:11,4032x3024,4.0 mm,1/4,1.8,100
+tesoura,tesouraC,tesouraC18.jpg,19/04/2021,23:35,0,preto,0,tesouraC18.jpg,2037 kB,iPhone 8,2021:04:19 23:35:57,4032x3024,4.0 mm,1/4,1.8,125
+tesoura,tesouraC,tesouraC19.jpg,20/04/2021,09:57,1,azul,1,tesouraC19.jpg,4.5 MB,iPhone 8,2021:04:20 09:57:18,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraC,tesouraC2.jpg,19/04/2021,23:05,1,azul,0,tesouraC2.jpg,2.3 MB,iPhone 8,2021:04:19 23:05:20,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraC,tesouraC20.jpg,20/04/2021,09:57,1,azul,1,tesouraC20.jpg,4.5 MB,iPhone 8,2021:04:20 09:57:41,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraC,tesouraC21.jpg,20/04/2021,09:57,1,azul,1,tesouraC21.jpg,4.1 MB,iPhone 8,2021:04:20 09:57:46,4032x3024,4.0 mm,1/34,1.8,25
+tesoura,tesouraC,tesouraC22.jpg,20/04/2021,10:00,1,branco,1,tesouraC22.jpg,2.7 MB,iPhone 8,2021:04:20 10:00:51,4032x3024,4.0 mm,1/120,1.8,25
+tesoura,tesouraC,tesouraC23.jpg,20/04/2021,10:00,1,branco,1,tesouraC23.jpg,2.6 MB,iPhone 8,2021:04:20 10:00:58,4032x3024,4.0 mm,1/120,1.8,25
+tesoura,tesouraC,tesouraC24.jpg,20/04/2021,10:01,1,branco,1,tesouraC24.jpg,2.5 MB,iPhone 8,2021:04:20 10:01:05,4032x3024,4.0 mm,1/120,1.8,32
+tesoura,tesouraC,tesouraC25.jpg,20/04/2021,10:04,1,preto,1,tesouraC25.jpg,3.7 MB,iPhone 8,2021:04:20 10:04:55,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraC,tesouraC26.jpg,20/04/2021,10:05,1,preto,1,tesouraC26.jpg,3.6 MB,iPhone 8,2021:04:20 10:05:01,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraC,tesouraC27.jpg,20/04/2021,10:05,1,preto,1,tesouraC27.jpg,3.3 MB,iPhone 8,2021:04:20 10:05:05,4032x3024,4.0 mm,1/15,1.8,64
+tesoura,tesouraC,tesouraC28.jpg,20/04/2021,10:14,0,azul,1,tesouraC28.jpg,4.1 MB,iPhone 8,2021:04:20 10:14:21,3024x4032,4.0 mm,1/40,1.8,25
+tesoura,tesouraC,tesouraC29.jpg,20/04/2021,10:14,0,azul,1,tesouraC29.jpg,4.0 MB,iPhone 8,2021:04:20 10:14:28,3024x4032,4.0 mm,1/40,1.8,25
+tesoura,tesouraC,tesouraC3.jpg,19/04/2021,23:05,1,azul,0,tesouraC3.jpg,3.1 MB,iPhone 8,2021:04:19 23:05:26,4032x3024,4.0 mm,1/15,1.8,50
+tesoura,tesouraC,tesouraC30.jpg,20/04/2021,10:14,0,azul,1,tesouraC30.jpg,4.2 MB,iPhone 8,2021:04:20 10:14:33,3024x4032,4.0 mm,1/30,1.8,20
+tesoura,tesouraC,tesouraC31.jpg,20/04/2021,10:18,0,branco,1,tesouraC31.jpg,2.5 MB,iPhone 8,2021:04:20 10:18:03,3024x4032,4.0 mm,1/217,1.8,20
+tesoura,tesouraC,tesouraC32.jpg,20/04/2021,10:18,0,branco,1,tesouraC32.jpg,2.5 MB,iPhone 8,2021:04:20 10:18:10,3024x4032,4.0 mm,1/200,1.8,20
+tesoura,tesouraC,tesouraC33.jpg,20/04/2021,10:18,0,branco,1,tesouraC33.jpg,2.6 MB,iPhone 8,2021:04:20 10:18:15,3024x4032,4.0 mm,1/191,1.8,20
+tesoura,tesouraC,tesouraC34.jpg,20/04/2021,10:22,0,preto,1,tesouraC34.jpg,4.0 MB,iPhone 8,2021:04:20 10:22:20,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraC,tesouraC35.jpg,20/04/2021,10:22,0,preto,1,tesouraC35.jpg,3.7 MB,iPhone 8,2021:04:20 10:22:25,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraC,tesouraC36.jpg,20/04/2021,10:22,0,preto,1,tesouraC36.jpg,4.0 MB,iPhone 8,2021:04:20 10:22:31,4032x3024,4.0 mm,1/30,1.8,25
+tesoura,tesouraC,tesouraC5.jpg,19/04/2021,23:11,1,branco,0,tesouraC4.jpg,1235 kB,iPhone 8,2021:04:19 23:11:49,4032x3024,4.0 mm,1/30,1.8,32
+tesoura,tesouraC,tesouraC5.jpg,19/04/2021,23:12,1,branco,0,tesouraC5.jpg,1253 kB,iPhone 8,2021:04:19 23:12:03,4032x3024,4.0 mm,1/30,1.8,32
+tesoura,tesouraC,tesouraC6.jpg,19/04/2021,23:12,1,branco,0,tesouraC6.jpg,1443 kB,iPhone 8,2021:04:19 23:12:05,4032x3024,4.0 mm,1/30,1.8,32
+tesoura,tesouraC,tesouraC7.jpg,19/04/2021,23:14,1,preto,0,tesouraC7.jpg,2.5 MB,iPhone 8,2021:04:19 23:14:05,4032x3024,4.0 mm,1/13,1.8,100
+tesoura,tesouraC,tesouraC8.jpg,19/04/2021,23:14,1,preto,0,tesouraC8.jpg,2.2 MB,iPhone 8,2021:04:19 23:14:08,4032x3024,4.0 mm,1/13,1.8,100
+tesoura,tesouraC,tesouraC9.jpg,19/04/2021,23:14,1,preto,0,tesouraC9.jpg,2.5 MB,iPhone 8,2021:04:19 23:14:10,4032x3024,4.0 mm,1/13,1.8,100
+dentealho,dentealhoA,dentealhoA01.jpg,17/05/2021,16:50,0,branco,1,dentealhoA01.jpg,176 kB,Redmi 7,2021:05:17 16:50:35,2250x4000,3.8 mm,1/113,2.2,100
+dentealho,dentealhoA,dentealhoA02.jpg,17/05/2021,16:52,0,bege,1,dentealhoA02.jpg,184 kB,Redmi 7,2021:05:17 16:52:54,2250x4000,3.8 mm,1/120,2.2,200
+dentealho,dentealhoA,dentealhoA03.jpg,17/05/2021,16:54,0,preto,1,dentealhoA03.jpg,1796 kB,Redmi 7,2021:05:17 16:54:56,2250x4000,3.8 mm,1/20,2.2,800
+dentealho,dentealhoA,dentealhoA04.jpg,17/05/2021,17:12,1,branco,1,dentealhoA04.jpg,694 kB,Redmi 7,2021:05:17 17:12:50,2250x4000,3.8 mm,1/50,2.2,400
+dentealho,dentealhoA,dentealhoA05.jpg,17/05/2021,17:14,1,bege,1,dentealhoA05.jpg,205 kB,Redmi 7,2021:05:17 17:14:36,2250x4000,3.8 mm,1/25,2.2,500
+dentealho,dentealhoA,dentealhoA06.jpg,17/05/2021,17:17,1,preto,1,dentealhoA06.jpg,2.4 MB,Redmi 7,2021:05:17 17:17:43,2250x4000,3.8 mm,1/12,2.2,1600
+dentealho,dentealhoA,dentealhoA07.jpg,17/05/2021,17:26,1,branco,0,dentealhoA07.jpg,201 kB,Redmi 7,2021:05:17 17:26:31,2250x4000,3.8 mm,1/25,2.2,400
+dentealho,dentealhoA,dentealhoA08.jpg,17/05/2021,17:28,1,bege,0,dentealhoA08.jpg,180 kB,Redmi 7,2021:05:17 17:28:42,2250x4000,3.8 mm,1/25,2.2,640
+dentealho,dentealhoA,dentealhoA09.jpg,17/05/2021,17:30,1,preto,0,dentealhoA09.jpg,1382 kB,Redmi 7,2021:05:17 17:30:39,2250x4000,3.8 mm,1/12,2.2,3200
+dentealho,dentealhoA,dentealhoA10.jpg,17/05/2021,17:37,0,branco,0,dentealhoA10.jpg,1302 kB,Redmi 7,2021:05:17 17:37:32,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoA,dentealhoA11.jpg,17/05/2021,17:39,0,bege,0,dentealhoA11.jpg,977 kB,Redmi 7,2021:05:17 17:39:29,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoA,dentealhoA12.jpg,17/05/2021,17:41,0,preto,0,dentealhoA12.jpg,172 kB,Redmi 7,2021:05:17 17:41:29,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoB,dentealhoB01.jpg,17/05/2021,16:50,0,branco,1,dentealhoB01.jpg,183 kB,Redmi 7,2021:05:17 16:50:56,2250x4000,3.8 mm,1/113,2.2,100
+dentealho,dentealhoB,dentealhoB02.jpg,17/05/2021,16:53,0,bege,1,dentealhoB02.jpg,187 kB,Redmi 7,2021:05:17 16:53:01,2250x4000,3.8 mm,1/120,2.2,200
+dentealho,dentealhoB,dentealhoB03.jpg,17/05/2021,16:55,0,preto,1,dentealhoB03.jpg,1979 kB,Redmi 7,2021:05:17 16:55:04,2250x4000,3.8 mm,1/24,2.2,800
+dentealho,dentealhoB,dentealhoB04.jpg,17/05/2021,17:13,1,branco,1,dentealhoB04.jpg,798 kB,Redmi 7,2021:05:17 17:13:06,2250x4000,3.8 mm,1/50,2.2,400
+dentealho,dentealhoB,dentealhoB05.jpg,17/05/2021,17:14,1,bege,1,dentealhoB05.jpg,214 kB,Redmi 7,2021:05:17 17:14:42,2250x4000,3.8 mm,1/25,2.2,500
+dentealho,dentealhoB,dentealhoB06.jpg,17/05/2021,17:18,1,preto,1,dentealhoB06.jpg,2.3 MB,Redmi 7,2021:05:17 17:18:03,2250x4000,3.8 mm,1/12,2.2,1600
+dentealho,dentealhoB,dentealhoB07.jpg,17/05/2021,17:26,1,branco,0,dentealhoB07.jpg,198 kB,Redmi 7,2021:05:17 17:26:42,2250x4000,3.8 mm,1/25,2.2,400
+dentealho,dentealhoB,dentealhoB08.jpg,17/05/2021,17:29,1,bege,0,dentealhoB08.jpg,180 kB,Redmi 7,2021:05:17 17:29:00,2250x4000,3.8 mm,1/25,2.2,640
+dentealho,dentealhoB,dentealhoB09.jpg,17/05/2021,17:30,1,preto,0,dentealhoB09.jpg,1524 kB,Redmi 7,2021:05:17 17:30:50,2250x4000,3.8 mm,1/12,2.2,3200
+dentealho,dentealhoB,dentealhoB10.jpg,17/05/2021,17:37,0,branco,0,dentealhoB10.jpg,1366 kB,Redmi 7,2021:05:17 17:37:42,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoB,dentealhoB11.jpg,17/05/2021,17:39,0,bege,0,dentealhoB11.jpg,1050 kB,Redmi 7,2021:05:17 17:39:39,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoB,dentealhoB12.jpg,17/05/2021,17:41,0,preto,0,dentealhoB12.jpg,198 kB,Redmi 7,2021:05:17 17:41:40,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoC,dentealhoC01.jpg,17/05/2021,16:51,0,branco,1,dentealhoC01.jpg,186 kB,Redmi 7,2021:05:17 16:51:06,2250x4000,3.8 mm,1/124,2.2,100
+dentealho,dentealhoC,dentealhoC02.jpg,17/05/2021,16:53,0,bege,1,dentealhoC02.jpg,185 kB,Redmi 7,2021:05:17 16:53:08,2250x4000,3.8 mm,1/120,2.2,200
+dentealho,dentealhoC,dentealhoC03.jpg,17/05/2021,16:56,0,preto,1,dentealhoC03.jpg,1842 kB,Redmi 7,2021:05:17 16:56:43,2250x4000,3.8 mm,1/25,2.2,800
+dentealho,dentealhoC,dentealhoC04.jpg,17/05/2021,17:13,1,branco,1,dentealhoC04.jpg,780 kB,Redmi 7,2021:05:17 17:13:15,2250x4000,3.8 mm,1/50,2.2,400
+dentealho,dentealhoC,dentealhoC05.jpg,17/05/2021,17:14,1,bege,1,dentealhoC05.jpg,216 kB,Redmi 7,2021:05:17 17:14:51,2250x4000,3.8 mm,1/25,2.2,500
+dentealho,dentealhoC,dentealhoC06.jpg,17/05/2021,17:18,1,preto,1,dentealhoC06.jpg,2.7 MB,Redmi 7,2021:05:17 17:18:13,2250x4000,3.8 mm,1/12,2.2,2000
+dentealho,dentealhoC,dentealhoC07.jpg,17/05/2021,17:26,1,branco,0,dentealhoC07.jpg,201 kB,Redmi 7,2021:05:17 17:26:59,2250x4000,3.8 mm,1/25,2.2,400
+dentealho,dentealhoC,dentealhoC08.jpg,17/05/2021,17:29,1,bege,0,dentealhoC08.jpg,178 kB,Redmi 7,2021:05:17 17:29:11,2250x4000,3.8 mm,1/25,2.2,640
+dentealho,dentealhoC,dentealhoC09.jpg,17/05/2021,17:31,1,preto,0,dentealhoC09.jpg,1476 kB,Redmi 7,2021:05:17 17:31:07,2250x4000,3.8 mm,1/12,2.2,3200
+dentealho,dentealhoC,dentealhoC10.jpg,17/05/2021,17:37,0,branco,0,dentealhoC10.jpg,1469 kB,Redmi 7,2021:05:17 17:37:54,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoC,dentealhoC11.jpg,17/05/2021,17:39,0,bege,0,dentealhoC11.jpg,1062 kB,Redmi 7,2021:05:17 17:39:49,2250x4000,3.8 mm,1/12,2.2,9600
+dentealho,dentealhoC,dentealhoC12.jpg,17/05/2021,17:41,0,preto,0,dentealhoC12.jpg,211 kB,Redmi 7,2021:05:17 17:41:51,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaA,ferramA01.jpg,16/05/2021,16:42,0,branco,1,ferramA01.jpg,277 kB,Redmi 7,2021:05:16 16:42:56,2250x4000,3.8 mm,1/173,2.2,100
+ferramenta,ferramentaA,ferramA02.jpg,16/05/2021,16:46,0,bege,1,ferramA02.jpg,284 kB,Redmi 7,2021:05:16 16:46:32,2250x4000,3.8 mm,1/100,2.2,125
+ferramenta,ferramentaA,ferramA03.jpg,16/05/2021,16:49,0,azul,1,ferramA03.jpg,3.0 MB,Redmi 7,2021:05:16 16:49:17,2250x4000,3.8 mm,1/24,2.2,400
+ferramenta,ferramentaA,ferramA04.jpg,16/05/2021,16:51,0,preto,1,ferramA04.jpg,2.9 MB,Redmi 7,2021:05:16 16:51:39,2250x4000,3.8 mm,1/24,2.2,400
+ferramenta,ferramentaA,ferramA05.jpg,16/05/2021,18:49,1,branco,1,ferramA05.jpg,235 kB,Redmi 7,2021:05:16 18:49:12,2250x4000,3.8 mm,1/50,2.2,125
+ferramenta,ferramentaA,ferramA06.jpg,16/05/2021,18:52,1,bege,1,ferramA06.jpg,220 kB,Redmi 7,2021:05:16 18:52:40,2250x4000,3.8 mm,1/50,2.2,200
+ferramenta,ferramentaA,ferramA07.jpg,16/05/2021,18:55,1,preto,1,ferramA07.jpg,1935 kB,Redmi 7,2021:05:16 18:55:01,2250x4000,3.8 mm,1/20,2.2,1000
+ferramenta,ferramentaA,ferramA08.jpg,16/05/2021,18:59,1,azul,1,ferramA08.jpg,1835 kB,Redmi 7,2021:05:16 18:59:25,2250x4000,3.8 mm,1/20,2.2,1600
+ferramenta,ferramentaA,ferramA09.jpg,16/05/2021,19:17,1,branco,0,ferramA09.jpg,213 kB,Redmi 7,2021:05:16 19:17:47,2250x4000,3.8 mm,1/12,2.2,1600
+ferramenta,ferramentaA,ferramA10.jpg,16/05/2021,19:20,1,bege,0,ferramA10.jpg,225 kB,Redmi 7,2021:05:16 19:20:51,2250x4000,3.8 mm,1/12,2.2,2000
+ferramenta,ferramentaA,ferramA11.jpg,16/05/2021,19:23,1,azul,0,ferramA11.jpg,573 kB,Redmi 7,2021:05:16 19:23:42,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaA,ferramA12.jpg,16/05/2021,19:26,1,preto,0,ferramA12.jpg,1045 kB,Redmi 7,2021:05:16 19:26:31,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaB,ferramB01.jpg,16/05/2021,16:43,0,branco,1,ferramB01.jpg,260 kB,Redmi 7,2021:05:16 16:43:07,2250x4000,3.8 mm,1/158,2.2,100
+ferramenta,ferramentaB,ferramB02.jpg,16/05/2021,16:46,0,bege,1,ferramB02.jpg,234 kB,Redmi 7,2021:05:16 16:46:47,2250x4000,3.8 mm,1/120,2.2,160
+ferramenta,ferramentaB,ferramB03.jpg,16/05/2021,16:49,0,azul,1,ferramB03.jpg,2.3 MB,Redmi 7,2021:05:16 16:49:25,2250x4000,3.8 mm,1/30,2.2,400
+ferramenta,ferramentaB,ferramB04.jpg,16/05/2021,16:51,0,preto,1,ferramB04.jpg,3.0 MB,Redmi 7,2021:05:16 16:51:48,2250x4000,3.8 mm,1/30,2.2,400
+ferramenta,ferramentaB,ferramB05.jpg,16/05/2021,18:49,1,branco,1,ferramB05.jpg,227 kB,Redmi 7,2021:05:16 18:49:21,2250x4000,3.8 mm,1/50,2.2,125
+ferramenta,ferramentaB,ferramB06.jpg,16/05/2021,18:52,1,bege,1,ferramB06.jpg,215 kB,Redmi 7,2021:05:16 18:52:57,2250x4000,3.8 mm,1/50,2.2,250
+ferramenta,ferramentaB,ferramB07.jpg,16/05/2021,18:55,1,preto,1,ferramB07.jpg,1925 kB,Redmi 7,2021:05:16 18:55:10,2250x4000,3.8 mm,1/20,2.2,800
+ferramenta,ferramentaB,ferramB08.jpg,16/05/2021,18:59,1,azul,1,ferramB08.jpg,1393 kB,Redmi 7,2021:05:16 18:59:40,2250x4000,3.8 mm,1/20,2.2,1250
+ferramenta,ferramentaB,ferramB09.jpg,16/05/2021,19:18,1,branco,1,ferramB09.jpg,199 kB,Redmi 7,2021:05:16 19:18:00,2250x4000,3.8 mm,1/12,2.2,1600
+ferramenta,ferramentaB,ferramB12.jpg,16/05/2021,19:26,1,preto,1,ferramB12.jpg,1264 kB,Redmi 7,2021:05:16 19:26:44,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaB,ferramB13.jpg,16/05/2021,19:33,1,branco,0,ferramB13.jpg,364 kB,Redmi 7,2021:05:16 19:33:18,2250x4000,3.8 mm,1/12,2.2,6400
+ferramenta,ferramentaB,ferramB14.jpg,16/05/2021,19:29,1,preto,0,ferramB14.jpg,250 kB,Redmi 7,2021:05:16 19:29:49,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaC,ferramC01.jpg,16/05/2021,16:43,0,branco,1,ferramC01.jpg,292 kB,Redmi 7,2021:05:16 16:43:17,2250x4000,3.8 mm,1/158,2.2,100
+ferramenta,ferramentaC,ferramC02.jpg,16/05/2021,16:46,0,bege,1,ferramC02.jpg,278 kB,Redmi 7,2021:05:16 16:46:54,2250x4000,3.8 mm,1/120,2.2,160
+ferramenta,ferramentaC,ferramC03.jpg,16/05/2021,16:49,0,azul,1,ferramC03.jpg,2.7 MB,Redmi 7,2021:05:16 16:49:33,2250x4000,3.8 mm,1/24,2.2,400
+ferramenta,ferramentaC,ferramC04.jpg,16/05/2021,16:51,0,preto,1,ferramC04.jpg,2.9 MB,Redmi 7,2021:05:16 16:51:55,2250x4000,3.8 mm,1/24,2.2,400
+ferramenta,ferramentaC,ferramC05.jpg,16/05/2021,18:49,1,branco,1,ferramC05.jpg,222 kB,Redmi 7,2021:05:16 18:49:31,2250x4000,3.8 mm,1/50,2.2,125
+ferramenta,ferramentaC,ferramC06.jpg,16/05/2021,18:53,1,bege,1,ferramC06.jpg,223 kB,Redmi 7,2021:05:16 18:53:05,2250x4000,3.8 mm,1/50,2.2,200
+ferramenta,ferramentaC,ferramC07.jpg,16/05/2021,18:55,1,preto,1,ferramC07.jpg,2044 kB,Redmi 7,2021:05:16 18:55:22,2250x4000,3.8 mm,1/20,2.2,1250
+ferramenta,ferramentaC,ferramC08.jpg,16/05/2021,18:59,1,azul,1,ferramC08.jpg,1747 kB,Redmi 7,2021:05:16 18:59:50,2250x4000,3.8 mm,1/20,2.2,1600
+ferramenta,ferramentaC,ferramC09.jpg,16/05/2021,19:18,1,branco,0,ferramC09.jpg,220 kB,Redmi 7,2021:05:16 19:18:11,2250x4000,3.8 mm,1/12,2.2,1600
+ferramenta,ferramentaC,ferramC10.jpg,16/05/2021,19:21,1,bege,0,ferramC10.jpg,306 kB,Redmi 7,2021:05:16 19:21:13,2250x4000,3.8 mm,1/12,2.2,2000
+ferramenta,ferramentaC,ferramC11.jpg,16/05/2021,19:24,1,azul,0,ferramC11.jpg,699 kB,Redmi 7,2021:05:16 19:24:18,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaC,ferramC12.jpg,16/05/2021,19:26,1,preto,0,ferramC12.jpg,1261 kB,Redmi 7,2021:05:16 19:26:55,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaD,ferramD01.jpg,16/05/2021,16:43,0,branco,1,ferramD01.jpg,264 kB,Redmi 7,2021:05:16 16:43:28,2250x4000,3.8 mm,1/173,2.2,100
+ferramenta,ferramentaD,ferramD02.jpg,16/05/2021,16:47,0,bege,1,ferramD02.jpg,270 kB,Redmi 7,2021:05:16 16:47:02,2250x4000,3.8 mm,1/120,2.2,125
+ferramenta,ferramentaD,ferramD03.jpg,16/05/2021,16:49,0,azul,1,ferramD03.jpg,3.2 MB,Redmi 7,2021:05:16 16:49:47,2250x4000,3.8 mm,1/30,2.2,400
+ferramenta,ferramentaD,ferramD04.jpg,16/05/2021,16:52,0,preto,1,ferramD04.jpg,3.3 MB,Redmi 7,2021:05:16 16:52:02,2250x4000,3.8 mm,1/30,2.2,400
+ferramenta,ferramentaD,ferramD05.jpg,16/05/2021,18:49,1,branco,1,ferramD05.jpg,218 kB,Redmi 7,2021:05:16 18:49:40,2250x4000,3.8 mm,1/50,2.2,125
+ferramenta,ferramentaD,ferramD06.jpg,16/05/2021,18:53,1,bege,1,ferramD06.jpg,194 kB,Redmi 7,2021:05:16 18:53:13,2250x4000,3.8 mm,1/50,2.2,200
+ferramenta,ferramentaD,ferramD07.jpg,16/05/2021,18:55,1,preto,1,ferramD07.jpg,2.1 MB,Redmi 7,2021:05:16 18:55:31,2250x4000,3.8 mm,1/20,2.2,1000
+ferramenta,ferramentaD,ferramD08.jpg,16/05/2021,18:59,1,azul,1,ferramD08.jpg,1986 kB,Redmi 7,2021:05:16 18:59:59,2250x4000,3.8 mm,1/20,2.2,1600
+ferramenta,ferramentaD,ferramD11.jpg,16/05/2021,19:25,1,azul,0,ferramD11.jpg,266 kB,Redmi 7,2021:05:16 19:25:02,2250x4000,3.8 mm,1/12,2.2,9600
+ferramenta,ferramentaD,ferramD12.jpg,16/05/2021,19:27,1,preto,0,ferramD12.jpg,1098 kB,Redmi 7,2021:05:16 19:27:04,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaA,folhaA01.jpg,17/05/2021,16:51,0,branco,1,folhaA01.jpg,232 kB,Redmi 7,2021:05:17 16:51:58,2250x4000,3.8 mm,1/120,2.2,125
+folha,folhaA,folhaA02.jpg,17/05/2021,16:53,0,bege,1,folhaA02.jpg,260 kB,Redmi 7,2021:05:17 16:53:43,2250x4000,3.8 mm,1/60,2.2,125
+folha,folhaA,folhaA03.jpg,17/05/2021,16:57,0,preto,1,folhaA03.jpg,1926 kB,Redmi 7,2021:05:17 16:57:14,2250x4000,3.8 mm,1/33,2.2,320
+folha,folhaA,folhaA04.jpg,17/05/2021,17:13,1,branco,1,folhaA04.jpg,744 kB,Redmi 7,2021:05:17 17:13:57,2250x4000,3.8 mm,1/50,2.2,400
+folha,folhaA,folhaA05.jpg,17/05/2021,17:15,1,bege,1,folhaA05.jpg,340 kB,Redmi 7,2021:05:17 17:15:48,2250x4000,3.8 mm,1/25,2.2,500
+folha,folhaA,folhaA06.jpg,17/05/2021,17:18,1,preto,1,folhaA06.jpg,2.1 MB,Redmi 7,2021:05:17 17:18:54,2250x4000,3.8 mm,1/20,2.2,1600
+folha,folhaA,folhaA07.jpg,17/05/2021,17:27,1,branco,0,folhaA07.jpg,227 kB,Redmi 7,2021:05:17 17:27:49,2250x4000,3.8 mm,1/25,2.2,500
+folha,folhaA,folhaA08.jpg,17/05/2021,17:29,1,bege,0,folhaA08.jpg,271 kB,Redmi 7,2021:05:17 17:29:55,2250x4000,3.8 mm,1/25,2.2,640
+folha,folhaA,folhaA09.jpg,17/05/2021,17:34,1,preto,0,folhaA09.jpg,1728 kB,Redmi 7,2021:05:17 17:34:39,2250x4000,3.8 mm,1/14,2.2,1600
+folha,folhaA,folhaA10.jpg,17/05/2021,17:38,0,branco,0,folhaA10.jpg,1141 kB,Redmi 7,2021:05:17 17:38:41,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaA,folhaA11.jpg,17/05/2021,17:40,0,bege,0,folhaA11.jpg,521 kB,Redmi 7,2021:05:17 17:40:33,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaA,folhaA12.jpg,17/05/2021,17:42,0,preto,0,folhaA12.jpg,177 kB,Redmi 7,2021:05:17 17:42:45,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaB,folhaB01.jpg,17/05/2021,16:52,0,branco,1,folhaB01.jpg,212 kB,Redmi 7,2021:05:17 16:52:08,2250x4000,3.8 mm,1/120,2.2,125
+folha,folhaB,folhaB02.jpg,17/05/2021,16:54,0,bege,1,folhaB02.jpg,252 kB,Redmi 7,2021:05:17 16:54:19,2250x4000,3.8 mm,1/60,2.2,125
+folha,folhaB,folhaB03.jpg,17/05/2021,16:57,0,preto,1,folhaB03.jpg,2.1 MB,Redmi 7,2021:05:17 16:57:33,2250x4000,3.8 mm,1/25,2.2,400
+folha,folhaB,folhaB04.jpg,17/05/2021,17:14,1,branco,1,folhaB04.jpg,644 kB,Redmi 7,2021:05:17 17:14:08,2250x4000,3.8 mm,1/50,2.2,400
+folha,folhaB,folhaB05.jpg,17/05/2021,17:16,1,bege,1,folhaB05.jpg,268 kB,Redmi 7,2021:05:17 17:16:05,2250x4000,3.8 mm,1/25,2.2,500
+folha,folhaB,folhaB06.jpg,17/05/2021,17:19,1,preto,1,folhaB06.jpg,2.0 MB,Redmi 7,2021:05:17 17:19:08,2250x4000,3.8 mm,1/20,2.2,1600
+folha,folhaB,folhaB07.jpg,17/05/2021,17:28,1,branco,0,folhaB07.jpg,199 kB,Redmi 7,2021:05:17 17:28:06,2250x4000,3.8 mm,1/25,2.2,500
+folha,folhaB,folhaB08.jpg,17/05/2021,17:30,1,bege,0,folhaB08.jpg,206 kB,Redmi 7,2021:05:17 17:30:05,2250x4000,3.8 mm,1/25,2.2,640
+folha,folhaB,folhaB09.jpg,17/05/2021,17:35,1,preto,0,folhaB09.jpg,1498 kB,Redmi 7,2021:05:17 17:35:05,2250x4000,3.8 mm,1/13,2.2,2000
+folha,folhaB,folhaB10.jpg,17/05/2021,17:38,0,branco,0,folhaB10.jpg,1102 kB,Redmi 7,2021:05:17 17:38:55,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaB,folhaB11.jpg,17/05/2021,17:40,0,bege,0,folhaB11.jpg,295 kB,Redmi 7,2021:05:17 17:40:43,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaB,folhaB12.jpg,17/05/2021,17:42,0,preto,0,folhaB12.jpg,214 kB,Redmi 7,2021:05:17 17:42:59,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaC,folhaC01.jpg,17/05/2021,16:52,0,branco,1,folhaC01.jpg,179 kB,Redmi 7,2021:05:17 16:52:22,2250x4000,3.8 mm,1/120,2.2,160
+folha,folhaC,folhaC02.jpg,17/05/2021,16:54,0,bege,1,folhaC02.jpg,224 kB,Redmi 7,2021:05:17 16:54:35,2250x4000,3.8 mm,1/60,2.2,200
+folha,folhaC,folhaC03.jpg,17/05/2021,16:57,0,preto,1,folhaC03.jpg,2034 kB,Redmi 7,2021:05:17 16:57:44,2250x4000,3.8 mm,1/25,2.2,400
+folha,folhaC,folhaC04.jpg,17/05/2021,17:14,1,branco,1,folhaC04.jpg,301 kB,Redmi 7,2021:05:17 17:14:18,2250x4000,3.8 mm,1/50,2.2,500
+folha,folhaC,folhaC05.jpg,17/05/2021,17:16,1,bege,1,folhaC05.jpg,297 kB,Redmi 7,2021:05:17 17:16:16,2250x4000,3.8 mm,1/25,2.2,500
+folha,folhaC,folhaC06.jpg,17/05/2021,17:19,1,preto,1,folhaC06.jpg,2.1 MB,Redmi 7,2021:05:17 17:19:17,2250x4000,3.8 mm,1/12,2.2,1600
+folha,folhaC,folhaC07.jpg,17/05/2021,17:28,1,branco,0,folhaC07.jpg,211 kB,Redmi 7,2021:05:17 17:28:15,2250x4000,3.8 mm,1/25,2.2,500
+folha,folhaC,folhaC08.jpg,17/05/2021,17:30,1,bege,0,folhaC08.jpg,277 kB,Redmi 7,2021:05:17 17:30:15,2250x4000,3.8 mm,1/25,2.2,640
+folha,folhaC,folhaC09.jpg,17/05/2021,17:35,1,preto,0,folhaC09.jpg,1735 kB,Redmi 7,2021:05:17 17:35:19,2250x4000,3.8 mm,1/13,2.2,2000
+folha,folhaC,folhaC10.jpg,17/05/2021,17:39,0,branco,0,folhaC10.jpg,1053 kB,Redmi 7,2021:05:17 17:39:06,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaC,folhaC11.jpg,17/05/2021,17:40,0,bege,0,folhaC11.jpg,766 kB,Redmi 7,2021:05:17 17:40:56,2250x4000,3.8 mm,1/12,2.2,9600
+folha,folhaC,folhaC12.jpg,17/05/2021,17:43,0,preto,0,folhaC12.jpg,169 kB,Redmi 7,2021:05:17 17:43:18,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteA,saboneteA01.jpg,17/05/2021,16:51,0,branco,1,saboneteA01.jpg,183 kB,Redmi 7,2021:05:17 16:51:17,2250x4000,3.8 mm,1/113,2.2,100
+sabonete,saboneteA,saboneteA02.jpg,17/05/2021,16:53,0,bege,1,saboneteA02.jpg,181 kB,Redmi 7,2021:05:17 16:53:16,2250x4000,3.8 mm,1/120,2.2,160
+sabonete,saboneteA,saboneteA03.jpg,17/05/2021,16:56,0,preto,1,saboneteA03.jpg,398 kB,Redmi 7,2021:05:17 16:56:49,2250x4000,3.8 mm,1/50,2.2,160
+sabonete,saboneteA,saboneteA04.jpg,17/05/2021,17:13,1,branco,1,saboneteA04.jpg,383 kB,Redmi 7,2021:05:17 17:13:28,2250x4000,3.8 mm,1/50,2.2,400
+sabonete,saboneteA,saboneteA05.jpg,17/05/2021,17:15,1,bege,1,saboneteA05.jpg,258 kB,Redmi 7,2021:05:17 17:15:19,2250x4000,3.8 mm,1/33,2.2,400
+sabonete,saboneteA,saboneteA06.jpg,17/05/2021,17:18,1,preto,1,saboneteA06.jpg,355 kB,Redmi 7,2021:05:17 17:18:25,2250x4000,3.8 mm,1/25,2.2,500
+sabonete,saboneteA,saboneteA07.jpg,17/05/2021,17:27,1,branco,0,saboneteA07.jpg,212 kB,Redmi 7,2021:05:17 17:27:13,2250x4000,3.8 mm,1/25,2.2,400
+sabonete,saboneteA,saboneteA08.jpg,17/05/2021,17:29,1,bege,0,saboneteA08.jpg,185 kB,Redmi 7,2021:05:17 17:29:29,2250x4000,3.8 mm,1/25,2.2,500
+sabonete,saboneteA,saboneteA09.jpg,17/05/2021,17:31,1,preto,0,saboneteA09.jpg,184 kB,Redmi 7,2021:05:17 17:31:18,2250x4000,3.8 mm,1/25,2.2,640
+sabonete,saboneteA,saboneteA10.jpg,17/05/2021,17:38,0,branco,0,saboneteA10.jpg,1166 kB,Redmi 7,2021:05:17 17:38:06,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteA,saboneteA11.jpg,17/05/2021,17:39,0,bege,0,saboneteA11.jpg,535 kB,Redmi 7,2021:05:17 17:39:59,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteA,saboneteA12.jpg,17/05/2021,17:42,0,preto,0,saboneteA12.jpg,233 kB,Redmi 7,2021:05:17 17:42:08,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteB,saboneteB01.jpg,17/05/2021,16:51,0,branco,1,saboneteB01.jpg,187 kB,Redmi 7,2021:05:17 16:51:26,2250x4000,3.8 mm,1/100,2.2,125
+sabonete,saboneteB,saboneteB02.jpg,17/05/2021,16:53,0,bege,1,saboneteB02.jpg,233 kB,Redmi 7,2021:05:17 16:53:22,2250x4000,3.8 mm,1/60,2.2,125
+sabonete,saboneteB,saboneteB03.jpg,17/05/2021,16:56,0,preto,1,saboneteB03.jpg,1828 kB,Redmi 7,2021:05:17 16:56:59,2250x4000,3.8 mm,1/25,2.2,400
+sabonete,saboneteB,saboneteB04.jpg,17/05/2021,17:13,1,branco,1,saboneteB04.jpg,196 kB,Redmi 7,2021:05:17 17:13:44,2250x4000,3.8 mm,1/50,2.2,500
+sabonete,saboneteB,saboneteB05.jpg,17/05/2021,17:15,1,bege,1,saboneteB05.jpg,256 kB,Redmi 7,2021:05:17 17:15:29,2250x4000,3.8 mm,1/25,2.2,500
+sabonete,saboneteB,saboneteB06.jpg,17/05/2021,17:18,1,preto,1,saboneteB06.jpg,1964 kB,Redmi 7,2021:05:17 17:18:34,2250x4000,3.8 mm,1/14,2.2,1600
+sabonete,saboneteB,saboneteB07.jpg,17/05/2021,17:27,1,branco,0,saboneteB07.jpg,234 kB,Redmi 7,2021:05:17 17:27:22,2250x4000,3.8 mm,1/25,2.2,500
+sabonete,saboneteB,saboneteB08.jpg,17/05/2021,17:29,1,bege,0,saboneteB08.jpg,259 kB,Redmi 7,2021:05:17 17:29:35,2250x4000,3.8 mm,1/25,2.2,640
+sabonete,saboneteB,saboneteB09.jpg,17/05/2021,17:34,1,preto,0,saboneteB09.jpg,1569 kB,Redmi 7,2021:05:17 17:34:19,2250x4000,3.8 mm,1/12,2.2,2500
+sabonete,saboneteB,saboneteB10.jpg,17/05/2021,17:38,0,branco,0,saboneteB10.jpg,1113 kB,Redmi 7,2021:05:17 17:38:18,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteB,saboneteB11.jpg,17/05/2021,17:40,0,bege,0,saboneteB11.jpg,304 kB,Redmi 7,2021:05:17 17:40:08,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteB,saboneteB12.jpg,17/05/2021,17:42,0,preto,0,saboneteB12.jpg,171 kB,Redmi 7,2021:05:17 17:42:22,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteC,saboneteC01.jpg,17/05/2021,16:51,0,branco,1,saboneteC01.jpg,177 kB,Redmi 7,2021:05:17 16:51:34,2250x4000,3.8 mm,1/113,2.2,100
+sabonete,saboneteC,saboneteC02.jpg,17/05/2021,16:53,0,bege,1,saboneteC02.jpg,180 kB,Redmi 7,2021:05:17 16:53:30,2250x4000,3.8 mm,1/120,2.2,160
+sabonete,saboneteC,saboneteC03.jpg,17/05/2021,16:57,0,preto,1,saboneteC03.jpg,363 kB,Redmi 7,2021:05:17 16:57:06,2250x4000,3.8 mm,1/50,2.2,160
+sabonete,saboneteC,saboneteC04.jpg,17/05/2021,17:13,1,branco,1,saboneteC04.jpg,381 kB,Redmi 7,2021:05:17 17:13:36,2250x4000,3.8 mm,1/50,2.2,400
+sabonete,saboneteC,saboneteC05.jpg,17/05/2021,17:15,1,bege,1,saboneteC05.jpg,245 kB,Redmi 7,2021:05:17 17:15:39,2250x4000,3.8 mm,1/33,2.2,400
+sabonete,saboneteC,saboneteC06.jpg,17/05/2021,17:18,1,preto,1,saboneteC06.jpg,346 kB,Redmi 7,2021:05:17 17:18:42,2250x4000,3.8 mm,1/25,2.2,640
+sabonete,saboneteC,saboneteC07.jpg,17/05/2021,17:27,1,branco,0,saboneteC07.jpg,197 kB,Redmi 7,2021:05:17 17:27:32,2250x4000,3.8 mm,1/25,2.2,400
+sabonete,saboneteC,saboneteC08.jpg,17/05/2021,17:29,1,bege,0,saboneteC08.jpg,181 kB,Redmi 7,2021:05:17 17:29:44,2250x4000,3.8 mm,1/25,2.2,500
+sabonete,saboneteC,saboneteC09.jpg,17/05/2021,17:34,1,preto,0,saboneteC09.jpg,269 kB,Redmi 7,2021:05:17 17:34:29,2250x4000,3.8 mm,1/25,2.2,800
+sabonete,saboneteC,saboneteC10.jpg,17/05/2021,17:38,0,branco,0,saboneteC10.jpg,2.7 MB,Redmi 7,2021:05:17 17:38:30,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteC,saboneteC11.jpg,17/05/2021,17:40,0,bege,0,saboneteC11.jpg,810 kB,Redmi 7,2021:05:17 17:40:19,2250x4000,3.8 mm,1/12,2.2,9600
+sabonete,saboneteC,saboneteC12.jpg,17/05/2021,17:42,0,preto,0,saboneteC12.jpg,232 kB,Redmi 7,2021:05:17 17:42:35,2250x4000,3.8 mm,1/12,2.2,9600
